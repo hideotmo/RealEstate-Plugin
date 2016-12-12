@@ -1,0 +1,71 @@
+-----------------------------------------------------------------------------------------------------------------------
+#Version 3.2.0
+-----------------------------------------------------------------------------------------------------------------------
+- [ADDED] Dashboard link related to membership add-on to the header
+- [ADDED] New widget area to the header for Language and Currency switcher
+- [ADDED] Telegram and instagram social media icons
+- [ADDED] Multi column feature for footer (1-4 columns)
+- [ADDED] SQFT field have been added to the property listing layout instead of number of pictures
+- [FIXED] Most of issues related to the multicolor feature.
+- [FIXED] Some issues with predefined colors that I fixed them.
+- [FIXED] Overflow links in the main menu
+- [FIXED] Retina ready logo issue in user does not add it.
+- [FIXED] The container issue on page load
+
+-----------------------------------------------------------------------------------------------------------------------
+#Version 3.1.0
+-----------------------------------------------------------------------------------------------------------------------
+- [ADDED] New custom header type for child theme overrides.
+- [IMPROVED] Theme loading speed improved.
+- [IMPROVED] Theme images compression, improved.
+- [FIXED] Theme coloring issues fixed.
+- [FIXED] Outstanding layout issues fixed.
+- [FIXED] Header shadow issue fixed.
+- [FIXED] Overlapping of no fixed image.
+- [FIXED] Some other minor issues.
+
+-----------------------------------------------------------------------------------------------------------------------
+#Version 3.0.0
+-----------------------------------------------------------------------------------------------------------------------
+- [ADDED] Fav icon configuration has been added.
+- [ADDED] A new Simple/Clean header as been added.
+- [ADDED] Overflow menu handler has been added.
+- [ADDED] A new transparency feature for Header has been added.
+- [ADDED] A new Logo for template has been added.
+- [ADDED] A new configuration section called "Layout Setting" has been added.
+- [ADDED] A new Layout for Property Listing - Grid has been added.
+- [ADDED] A new layout for Property Listing - List has been added.
+- [ADDED] A new option for changing the Hover effect has been added and Fade effect has been added to it.
+- [ADDED] A new feature for configuring the position of text in Modern Carousel has been added.
+- [ADDED] 2 new configurations for Property Listing fonts has been added.
+- [ADDED] A new feature for showing new Added Features in the template configuration has been added.
+- [ADDED] A new animation has been added for Sticky Header.
+- [ADDED] Template configuration has been added as a Primary menu with Exclusive icon in WordPress Back-end.
+- [ADDED] Auto update feature has been added to template and now on clients can update their template from the WordPress update manager.
+- [ADDED] Featured Property background has been changed to new one.
+- [ADDED] A new layout structure has been developed for Listing Box to have all flexibility to change.
+- [ADDED] All configuration icons has been replaced with SVG version to support any DPI.
+- [ADDED] Theme Configuration save loading has been change to SVG-Animated icon.
+- [ADDED] Left menu of Theme Configuration now is floating when content is bigger, then don't need to scroll back to top to save.
+- [ADDED] Complete Redesign Dark color.
+- [ADDED] Auto Snap-Scroll to content for map part in Listing.
+
+- [CHANGED] Default font of template has been changed to "Open Sans".
+- [CHANGED] "Layout" and "Page Width" move to Layout Section.
+
+- [FIXED] Header issues in Desktop and Responsive version has been resolved.
+- [FIXED] Header Shadow issue has been resolved.
+- [FIXED] Footer icon issue has been resolved.
+- [FIXED] Responsive issue in Property Listing Page has been resolved.
+- [FIXED] Loading issue has in Template Configuration has been resolved.
+- [FIXED] Header and Footer issue that prevent to override these fiel in the child templates has been resolved.
+- [FIXED] Issue in uploading icon for Footer has been resolved.
+
+-----------------------------------------------------------------------------------------------------------------------
+#Version 2.0.0
+-----------------------------------------------------------------------------------------------------------------------
+- N/A
+-----------------------------------------------------------------------------------------------------------------------
+#Version 1.0.0
+-----------------------------------------------------------------------------------------------------------------------
+- N/A

@@ -1,0 +1,1413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme28\n"
+"POT-Creation-Date: 2016-02-20 00:19+0330\n"
+"PO-Revision-Date: 2016-08-09 15:50+0430\n"
+"Last-Translator: Howard <howard@realtyna.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:25
+msgid "Here are some useful links:"
+msgstr ""
+
+#: archive.php:29 archive.php:55 page-left-menu.php:31 page-side.php:31
+#: page.php:31 single.php:32 tag.php:17 tag.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: author.php:28
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: comments.php:25 comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:26 comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27 comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:16 content-audio.php:16 content-featured-post.php:29
+#: content-gallery.php:16 content-image.php:16 content-link.php:16
+#: content-quote.php:16 content-video.php:16
+msgid ", "
+msgstr ""
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:36
+#: content-image.php:34 content-link.php:34 content-quote.php:37
+#: content-video.php:37 content.php:49 page-left-menu.php:93 page-side.php:86
+#: page.php:113 single.php:118
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:39 content-audio.php:39 content-gallery.php:38
+#: content-image.php:36 content-link.php:36 content-page.php:20
+#: content-quote.php:39 content-video.php:39 content.php:51 image.php:49
+#: page-left-menu.php:95 page-side.php:88 page.php:115 single.php:120
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "Leave a comment"
+msgstr ""
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "1 Comment"
+msgstr ""
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "% Comments"
+msgstr ""
+
+#: content-aside.php:57 content-audio.php:59 content-gallery.php:56
+#: content-image.php:55 content-link.php:55 content-page.php:26
+#: content-quote.php:59 content-video.php:59 content.php:65 image.php:29
+#: page.php:99 single.php:105
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: header.php:40
+msgid "Properties On Map"
+msgstr ""
+
+#: header.php:170 header.php:349 header.php:420 header.php:462 header.php:517
+#: header.php:594
+msgid "Login to Account"
+msgstr ""
+
+#: header.php:174 header.php:353 header.php:424 header.php:465 header.php:520
+#: header.php:601
+msgid "Logout"
+msgstr ""
+
+#: header.php:178 header.php:357 header.php:428 header.php:469 header.php:524
+#: header.php:610
+msgid "Register"
+msgstr ""
+
+#: image.php:60
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:61
+msgid "Next Image"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: taxonomy-post_format.php:26
+msgid "Asides"
+msgstr ""
+
+#: taxonomy-post_format.php:29
+msgid "Images"
+msgstr ""
+
+#: taxonomy-post_format.php:32
+msgid "Videos"
+msgstr ""
+
+#: taxonomy-post_format.php:35
+msgid "Audio"
+msgstr ""
+
+#: taxonomy-post_format.php:38
+msgid "Quotes"
+msgstr ""
+
+#: taxonomy-post_format.php:41
+msgid "Links"
+msgstr ""
+
+#: taxonomy-post_format.php:44
+msgid "Galleries"
+msgstr ""
+
+#: taxonomy-post_format.php:47
+msgid "Archives"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:8
+msgid "Remove this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:9
+msgid "Clone this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:10
+msgid "Edit this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:11
+msgid "Sort"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:219
+msgid "Remove this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:220
+msgid "Clone this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:221
+msgid "Edit this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:222
+msgid "Sort this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:230
+msgid "Add box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:238
+msgid "Post/Page Content"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:246
+msgid "Text"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:254
+msgid "Image"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:262
+msgid "Link"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:270
+#: plugins/RTPB/libraries/shortcode_params/sidebar.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:278
+msgid "Raw HTML"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:286
+msgid "Raw Javascript"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:294
+#: plugins/RTPB/shortcodes/rtpb_facebook_like/preview.php:6
+msgid "Facebook like"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:302
+msgid "Facebook Share"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:310
+#: plugins/RTPB/shortcodes/rtpb_google_plus/preview.php:6
+msgid "Google+"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:318
+#: plugins/RTPB/shortcodes/rtpb_pinterest/preview.php:6 wpl/config_page.php:681
+#: wpl/theme.php:745
+msgid "Pinterest"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:326 wpl/config_page.php:613
+#: wpl/theme.php:724
+msgid "Twitter"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:334
+#: plugins/RTPB/shortcodes/rtpb_separator/preview.php:6
+msgid "Separator"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:342
+#: plugins/RTPB/shortcodes/rtpb_button/preview.php:6
+msgid "Button"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:350
+#: plugins/RTPB/shortcodes/rtpb_message/preview.php:6
+msgid "Message"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:358
+#: plugins/RTPB/shortcodes/rtpb_embed_code/preview.php:6
+msgid "Embed code"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:366
+#: plugins/RTPB/shortcodes/rtpb_slider/preview.php:6
+msgid "Slider"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:374
+msgid "WP pages widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:382
+msgid "WP search widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:390
+msgid "WP meta widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:398
+msgid "WP recent comments widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:406
+msgid "WP calendar widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:414
+msgid "WP tag cloud widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:422
+msgid "WP text widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:430
+msgid "WP recent posts widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:438
+msgid "WP categories widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:446
+msgid "WP archives widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:454
+msgid "WP RSS widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:462
+msgid "WP nav menu widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:27
+msgid "Add a row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:28
+msgid "CSS"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:29
+msgid "Save/Load layouts"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:42
+msgid "Please select a layout first."
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:43
+msgid "Insert your post/page content first."
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:6
+#: plugins/RTPB/libraries/page_builder.php:103
+msgid "Flexi Page Builder"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:7
+msgid "WordPress editor"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:10
+msgid "Unlimited sidebars"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:11
+msgid "Unlimited menu navs"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:12
+msgid "Global CSS"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:13
+msgid "Settings"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:7
+msgid "Add a new box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:8
+msgid "Filter"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:10
+msgid "All"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:11
+msgid "Social"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:12
+msgid "Widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:13
+msgid "Source"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:14
+msgid "Content"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/box_parameters.php:5
+msgid "Box parameters"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/box_parameters.php:5
+#: plugins/RTPB/interfaces/sections/box_parameters.php:6
+msgid "Please wait ..."
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/css.php:8
+msgid "Add custom CSS"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/global_css.php:8
+msgid "Global CSS for including in all post types"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/layouts.php:7
+msgid "Saved layouts"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/layouts.php:9
+msgid "Layout name"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/layouts.php:10
+#: plugins/RTPB/interfaces/sections/menus.php:15
+#: plugins/RTPB/interfaces/sections/sidebars.php:15
+msgid "Save"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/layouts.php:17
+#: plugins/RTPB/libraries/page_builder.php:451
+msgid "Remove this layout"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:11
+msgid "Manage Menus"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:13
+msgid "Menu name"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:16
+#: plugins/RTPB/interfaces/sections/sidebars.php:16
+msgid "Cancel edit"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:24
+#: plugins/RTPB/libraries/page_builder.php:561
+msgid "Remove this menu"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:25
+#: plugins/RTPB/libraries/page_builder.php:562
+msgid "Edit this menu"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/settings.php:11
+msgid "Flexi Page Builder settings"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/settings.php:14
+msgid "Default layout for "
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:11
+msgid "Manage Sidebars"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:13
+msgid "Sidebar name"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:24
+#: plugins/RTPB/libraries/page_builder.php:510
+msgid "Remove this sidebar"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:25
+#: plugins/RTPB/libraries/page_builder.php:511
+msgid "Edit this sidebar"
+msgstr ""
+
+#: plugins/RTPB/libraries/page_builder.php:371
+msgid "Created by Flexi Page Builder."
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/media_picker.php:15
+#: plugins/RTPB/libraries/shortcode_params/slider.php:14
+msgid "Select"
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:27
+#: plugins/RTPB/libraries/shortcode_params/slider.php:67
+msgid "Text1"
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:28
+#: plugins/RTPB/libraries/shortcode_params/slider.php:68
+msgid "Text2"
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:29
+#: plugins/RTPB/libraries/shortcode_params/slider.php:69
+msgid "Text3"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_column/preview.php:6
+msgid "Column block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_embed_code/params.php:4
+msgid "Enter your embed code here"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_facebook_share/preview.php:6
+msgid "Facebook share"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_image/preview.php:6
+msgid "Image block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_link/preview.php:6
+msgid "Link block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_post_content/preview.php:6
+msgid "Post/Page content"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_html/params.php:4
+msgid "I am a raw HTML"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_html/preview.php:6
+msgid "Raw HTML block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_js/params.php:4
+msgid "This is a javascript code!"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_js/preview.php:6
+msgid "Raw Javascript block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_row/preview.php:6
+msgid "Row block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_sidebar/preview.php:6
+msgid "Sidebar block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_text/preview.php:6
+msgid "Text block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_twitter/preview.php:6
+msgid "Twitter like"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_twitter/template.php:8
+msgid "Tweet"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_archives/preview.php:6
+msgid "WP archives"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_calendar/preview.php:6
+msgid "WP calendar"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_categories/preview.php:6
+msgid "WP categories"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_meta/preview.php:6
+msgid "WP meta"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_nav_menu/preview.php:6
+msgid "WP menu"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_pages/preview.php:6
+msgid "WP pages"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_recent_comments/preview.php:6
+msgid "WP recent comments"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_recent_posts/preview.php:6
+msgid "WP recent posts"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_rss/preview.php:6
+msgid "WP RSS"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_search/preview.php:6
+msgid "WP search"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_tag_cloud/preview.php:6
+msgid "WP tag cloud"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_text/preview.php:6
+msgid "WP text"
+msgstr ""
+
+#: wpl/config_page.php:90
+msgid "WPL Template"
+msgstr ""
+
+#: wpl/config_page.php:97
+msgid "Save Changes"
+msgstr ""
+
+#: wpl/config_page.php:100 wpl/config_page.php:120
+msgid "General Options"
+msgstr ""
+
+#: wpl/config_page.php:101
+msgid "Layout Options"
+msgstr ""
+
+#: wpl/config_page.php:102 wpl/config_page.php:948
+msgid "Font Options"
+msgstr ""
+
+#: wpl/config_page.php:103 wpl/config_page.php:274
+msgid "Color Options"
+msgstr ""
+
+#: wpl/config_page.php:104 wpl/config_page.php:470
+msgid "Header Options"
+msgstr ""
+
+#: wpl/config_page.php:105 wpl/config_page.php:518
+msgid "Footer Options"
+msgstr ""
+
+#: wpl/config_page.php:106 wpl/config_page.php:597
+msgid "Social Icons Options"
+msgstr ""
+
+#: wpl/config_page.php:107 wpl/config_page.php:1042
+msgid "Flex Slider"
+msgstr ""
+
+#: wpl/config_page.php:108 wpl/config_page.php:1189
+msgid "Short Codes"
+msgstr ""
+
+#: wpl/config_page.php:109
+msgid "Custom CSS"
+msgstr ""
+
+#: wpl/config_page.php:127
+msgid "Tel"
+msgstr ""
+
+#: wpl/config_page.php:129 wpl/config_page.php:137 wpl/config_page.php:542
+msgid "Leave it blank if you want to remove the text."
+msgstr ""
+
+#: wpl/config_page.php:135
+msgid "Email"
+msgstr ""
+
+#: wpl/config_page.php:146
+msgid "Mail To"
+msgstr ""
+
+#: wpl/config_page.php:148
+msgid ""
+"Render email address as a link with \"emailto:email@address.com\" format."
+msgstr ""
+
+#: wpl/config_page.php:156
+msgid "FavIcon"
+msgstr ""
+
+#: wpl/config_page.php:157
+msgid "Specified your FavIcon for your website."
+msgstr ""
+
+#: wpl/config_page.php:176
+msgid "Blog Options"
+msgstr ""
+
+#: wpl/config_page.php:183
+msgid "Show Post Navigation"
+msgstr ""
+
+#: wpl/config_page.php:185
+msgid "Show next and previous post links after post content."
+msgstr ""
+
+#: wpl/config_page.php:190 wpl/config_page.php:204 wpl/config_page.php:217
+#: wpl/config_page.php:481 wpl/config_page.php:556
+msgid "Yes"
+msgstr ""
+
+#: wpl/config_page.php:192 wpl/config_page.php:206 wpl/config_page.php:219
+#: wpl/config_page.php:482 wpl/config_page.php:558
+msgid "No"
+msgstr ""
+
+#: wpl/config_page.php:199
+msgid "Show Author"
+msgstr ""
+
+#: wpl/config_page.php:212
+msgid "Show Date"
+msgstr ""
+
+#: wpl/config_page.php:226 wpl/config_page.php:233
+msgid "Tracking codes"
+msgstr ""
+
+#: wpl/config_page.php:235
+msgid ""
+"Place your Google Analytics (and the others) here. This code will be located "
+"at the footer of template."
+msgstr ""
+
+#: wpl/config_page.php:245
+msgid "Before <code>&lt;/head&gt;</code>"
+msgstr ""
+
+#: wpl/config_page.php:247
+msgid "Add your code before the <code>&lt;/head&gt;</code>"
+msgstr ""
+
+#: wpl/config_page.php:257
+msgid "Before <code>&lt;/body&gt;</code>"
+msgstr ""
+
+#: wpl/config_page.php:259
+msgid "Add your code before the <code>&lt;/body&gt;</code>"
+msgstr ""
+
+#: wpl/config_page.php:279
+msgid "Theme"
+msgstr ""
+
+#: wpl/config_page.php:283 wpl/style_selector.php:20
+msgid "Light"
+msgstr ""
+
+#: wpl/config_page.php:285 wpl/style_selector.php:26
+msgid "Dark"
+msgstr ""
+
+#: wpl/config_page.php:290
+msgid "Presets Style"
+msgstr ""
+
+#: wpl/config_page.php:298 wpl/style_selector.php:33
+msgid "No Preset"
+msgstr ""
+
+#: wpl/config_page.php:309
+msgid "Enable Pattern For background"
+msgstr ""
+
+#: wpl/config_page.php:318
+msgid "Set Pattern For background"
+msgstr ""
+
+#: wpl/config_page.php:334
+msgid "Enable Custom Colors"
+msgstr ""
+
+#: wpl/config_page.php:342
+msgid "Body Background"
+msgstr ""
+
+#: wpl/config_page.php:352
+msgid "Main Color"
+msgstr ""
+
+#: wpl/config_page.php:363
+msgid "Footer Background Color"
+msgstr ""
+
+#: wpl/config_page.php:374
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: wpl/config_page.php:385
+msgid "Footer Font Color"
+msgstr ""
+
+#: wpl/config_page.php:395
+msgid "Logo"
+msgstr ""
+
+#: wpl/config_page.php:413
+msgid "Logo For Retina"
+msgstr ""
+
+#: wpl/config_page.php:415
+msgid "It must be exactly x2 the size of main Logo"
+msgstr ""
+
+#: wpl/config_page.php:433
+msgid "Second Logo"
+msgstr ""
+
+#: wpl/config_page.php:435
+msgid "You should select headers which supports second logo"
+msgstr ""
+
+#: wpl/config_page.php:453
+msgid "Second Logo Link"
+msgstr ""
+
+#: wpl/config_page.php:455
+msgid "Leave it blank if you want to link to homepage."
+msgstr ""
+
+#: wpl/config_page.php:476
+msgid "Sticky Header"
+msgstr ""
+
+#: wpl/config_page.php:477
+msgid "When this field is enabled, header will be fixed to top of the screen."
+msgstr ""
+
+#: wpl/config_page.php:488
+msgid "Transparent Header"
+msgstr ""
+
+#: wpl/config_page.php:496
+msgid "Header Type"
+msgstr ""
+
+#: wpl/config_page.php:503
+msgid "Header Type "
+msgstr ""
+
+#: wpl/config_page.php:523
+msgid "Footer Type"
+msgstr ""
+
+#: wpl/config_page.php:531
+msgid "Footer Type "
+msgstr ""
+
+#: wpl/config_page.php:540
+msgid "Footer text"
+msgstr ""
+
+#: wpl/config_page.php:551
+msgid "Show footer menu"
+msgstr ""
+
+#: wpl/config_page.php:564
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: wpl/config_page.php:573
+msgid "Footer Logo"
+msgstr ""
+
+#: wpl/config_page.php:603 wpl/theme.php:727
+msgid "Facebook"
+msgstr ""
+
+#: wpl/config_page.php:605 wpl/config_page.php:615 wpl/config_page.php:627
+#: wpl/config_page.php:638 wpl/config_page.php:649 wpl/config_page.php:660
+#: wpl/config_page.php:671 wpl/config_page.php:683 wpl/config_page.php:695
+#: wpl/config_page.php:706 wpl/config_page.php:718 wpl/config_page.php:729
+#: wpl/config_page.php:741 wpl/config_page.php:753 wpl/config_page.php:764
+#: wpl/config_page.php:775 wpl/config_page.php:788 wpl/config_page.php:800
+#: wpl/config_page.php:811
+msgid "Leave it blank if you want to remove the icon"
+msgstr ""
+
+#: wpl/config_page.php:625 wpl/theme.php:730
+msgid "Google Plus"
+msgstr ""
+
+#: wpl/config_page.php:636 wpl/theme.php:733
+msgid "Flickr"
+msgstr ""
+
+#: wpl/config_page.php:647 wpl/theme.php:736
+msgid "RSS"
+msgstr ""
+
+#: wpl/config_page.php:658 wpl/theme.php:739
+msgid "Vimeo"
+msgstr ""
+
+#: wpl/config_page.php:669
+msgid "Youtube"
+msgstr ""
+
+#: wpl/config_page.php:693 wpl/theme.php:748
+msgid "Tumblr"
+msgstr ""
+
+#: wpl/config_page.php:704 wpl/theme.php:751
+msgid "Dribbble"
+msgstr ""
+
+#: wpl/config_page.php:716 wpl/theme.php:754
+msgid "Digg"
+msgstr ""
+
+#: wpl/config_page.php:727
+msgid "LinkedIn"
+msgstr ""
+
+#: wpl/config_page.php:739 wpl/theme.php:760
+msgid "Blogger"
+msgstr ""
+
+#: wpl/config_page.php:752
+msgid "Skype"
+msgstr ""
+
+#: wpl/config_page.php:762 wpl/theme.php:766
+msgid "Forrst"
+msgstr ""
+
+#: wpl/config_page.php:773
+msgid "MySpace"
+msgstr ""
+
+#: wpl/config_page.php:786 wpl/theme.php:772
+msgid "Deviantart"
+msgstr ""
+
+#: wpl/config_page.php:798 wpl/theme.php:775
+msgid "Yahoo"
+msgstr ""
+
+#: wpl/config_page.php:809 wpl/theme.php:778
+msgid "Reddit"
+msgstr ""
+
+#: wpl/config_page.php:827
+msgid "Page Layout Settings"
+msgstr ""
+
+#: wpl/config_page.php:833
+msgid "Layout"
+msgstr ""
+
+#: wpl/config_page.php:837 wpl/style_selector.php:13
+msgid "Wide"
+msgstr ""
+
+#: wpl/config_page.php:839 wpl/style_selector.php:14
+msgid "Boxed"
+msgstr ""
+
+#: wpl/config_page.php:846
+msgid "Page Width"
+msgstr ""
+
+#: wpl/config_page.php:848
+msgid "Change width of page in Boxed layout."
+msgstr ""
+
+#: wpl/config_page.php:851
+msgid "Pixel"
+msgstr ""
+
+#: wpl/config_page.php:857
+msgid "Show Page Title"
+msgstr ""
+
+#: wpl/config_page.php:868
+msgid "Listing Layouts"
+msgstr ""
+
+#: wpl/config_page.php:875
+msgid "Listing Boxes"
+msgstr ""
+
+#: wpl/config_page.php:876 wpl/config_page.php:905
+msgid "Select your specific style for Grid Listing Boxes"
+msgstr ""
+
+#: wpl/config_page.php:883
+msgid "Flat Boxes"
+msgstr ""
+
+#: wpl/config_page.php:884
+msgid "Outstanding Boxes"
+msgstr ""
+
+#: wpl/config_page.php:891
+msgid "Listing Hover"
+msgstr ""
+
+#: wpl/config_page.php:892
+msgid "Select the listing hover effect in Listing Page"
+msgstr ""
+
+#: wpl/config_page.php:896
+msgid "Flip"
+msgstr ""
+
+#: wpl/config_page.php:897 wpl/config_page.php:1055
+msgid "Fade"
+msgstr ""
+
+#: wpl/config_page.php:904
+msgid "Default Listing Layout"
+msgstr ""
+
+#: wpl/config_page.php:909
+msgid "Last Session"
+msgstr ""
+
+#: wpl/config_page.php:910
+msgid "Grid"
+msgstr ""
+
+#: wpl/config_page.php:911
+msgid "List"
+msgstr ""
+
+#: wpl/config_page.php:912
+msgid "Map"
+msgstr ""
+
+#: wpl/config_page.php:920
+msgid "Widgets Layouts"
+msgstr ""
+
+#: wpl/config_page.php:927
+msgid "Modern Carousel Text"
+msgstr ""
+
+#: wpl/config_page.php:928
+msgid "Select where Carousel text show."
+msgstr ""
+
+#: wpl/config_page.php:932
+msgid "Default"
+msgstr ""
+
+#: wpl/config_page.php:933
+msgid "Top Center"
+msgstr ""
+
+#: wpl/config_page.php:934
+msgid "Center Center"
+msgstr ""
+
+#: wpl/config_page.php:935
+msgid "Bottom Center"
+msgstr ""
+
+#: wpl/config_page.php:954
+msgid "Main Font"
+msgstr ""
+
+#: wpl/config_page.php:955 wpl/config_page.php:969 wpl/config_page.php:983
+#: wpl/config_page.php:1006 wpl/config_page.php:1022
+msgid "Google Webfont"
+msgstr ""
+
+#: wpl/config_page.php:962 wpl/config_page.php:976 wpl/config_page.php:990
+msgid "Default is \"Lato\" and \"13px\""
+msgstr ""
+
+#: wpl/config_page.php:968
+msgid "Header Font"
+msgstr ""
+
+#: wpl/config_page.php:982
+msgid "Footer Font"
+msgstr ""
+
+#: wpl/config_page.php:997
+msgid "Internal Page Fonts"
+msgstr ""
+
+#: wpl/config_page.php:1005
+msgid "Property Listing - Title"
+msgstr ""
+
+#: wpl/config_page.php:1014 wpl/config_page.php:1030
+msgid "Default is \"BenchNine\" and \"3em\""
+msgstr ""
+
+#: wpl/config_page.php:1021
+msgid "Property Show - Price"
+msgstr ""
+
+#: wpl/config_page.php:1049
+msgid "Animation"
+msgstr ""
+
+#: wpl/config_page.php:1050
+msgid "Select your animation type"
+msgstr ""
+
+#: wpl/config_page.php:1057
+msgid "Slide"
+msgstr ""
+
+#: wpl/config_page.php:1064
+msgid "Slideshow"
+msgstr ""
+
+#: wpl/config_page.php:1065
+msgid "Animate slider automatically"
+msgstr ""
+
+#: wpl/config_page.php:1075
+msgid "Control Navigation"
+msgstr ""
+
+#: wpl/config_page.php:1077
+msgid "Create navigation for paging control of each slide"
+msgstr ""
+
+#: wpl/config_page.php:1087
+msgid "Direction Navigation"
+msgstr ""
+
+#: wpl/config_page.php:1089
+msgid "Create navigation for previous/next navigation"
+msgstr ""
+
+#: wpl/config_page.php:1099
+msgid "Randomize"
+msgstr ""
+
+#: wpl/config_page.php:1100
+msgid "Randomize slide order"
+msgstr ""
+
+#: wpl/config_page.php:1110
+msgid "SlideShow Speed"
+msgstr ""
+
+#: wpl/config_page.php:1112
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: wpl/config_page.php:1124
+msgid "Animation Duration"
+msgstr ""
+
+#: wpl/config_page.php:1126
+msgid "Set the speed of animations, in milliseconds"
+msgstr ""
+
+#: wpl/config_page.php:1140
+msgid "Add images"
+msgstr ""
+
+#: wpl/config_page.php:1166
+msgid "CSS Options"
+msgstr ""
+
+#: wpl/config_page.php:1172
+msgid "CSS codes"
+msgstr ""
+
+#: wpl/config_page.php:1174
+msgid ""
+"Place your CSS codes here. Note that they do not include any HTML tags, "
+"these CSS codes override your styles."
+msgstr ""
+
+#: wpl/config_page.php:1196
+msgid "[wpl_fs]"
+msgstr ""
+
+#: wpl/config_page.php:1198
+msgid "This code will generate the Flex Slider."
+msgstr ""
+
+#: wpl/helper.php:87
+msgid "WPL28 Settings"
+msgstr ""
+
+#: wpl/helper.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wpl/helper.php:130
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: wpl/helper.php:143
+msgid "Main Widget Area"
+msgstr ""
+
+#: wpl/helper.php:145
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: wpl/helper.php:153
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: wpl/helper.php:155
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: wpl/helper.php:163
+msgid "Carousel"
+msgstr ""
+
+#: wpl/helper.php:165
+msgid "Appears on the bottom of Main Menu."
+msgstr ""
+
+#: wpl/helper.php:173
+msgid "Top Footer Rows"
+msgstr ""
+
+#: wpl/helper.php:175
+msgid "Appears on top of the Top footer sidebar."
+msgstr ""
+
+#: wpl/helper.php:183
+msgid "Top Footer"
+msgstr ""
+
+#: wpl/helper.php:185
+msgid "Appears on the top of Footer."
+msgstr ""
+
+#: wpl/helper.php:192
+msgid "Left Slide"
+msgstr ""
+
+#: wpl/helper.php:194
+msgid "Appears on the left of page and slides to right by clicking."
+msgstr ""
+
+#: wpl/helper.php:202
+msgid "Right Side"
+msgstr ""
+
+#: wpl/helper.php:204
+msgid "Appears on the right of page and slides to left by clicking."
+msgstr ""
+
+#: wpl/helper.php:215
+msgid "Top Menu"
+msgstr ""
+
+#: wpl/helper.php:216
+msgid "Footer Menu"
+msgstr ""
+
+#: wpl/helper.php:217
+msgid "Social Menu"
+msgstr ""
+
+#: wpl/helper.php:218
+msgid "Not Found Page Menu"
+msgstr ""
+
+#: wpl/style_selector.php:8
+msgid "Style Selector"
+msgstr ""
+
+#: wpl/style_selector.php:10
+msgid "Select the layout"
+msgstr ""
+
+#: wpl/style_selector.php:17
+msgid "Choose the theme"
+msgstr ""
+
+#: wpl/style_selector.php:31
+msgid "Preset colors"
+msgstr ""
+
+#: wpl/style_selector.php:41
+msgid "Select the pattern"
+msgstr ""
+
+#: wpl/theme.php:280
+msgid "Saved."
+msgstr ""
+
+#: wpl/theme.php:280
+msgid "Error Occured."
+msgstr ""
+
+#: wpl/theme.php:495
+msgid "Sticky"
+msgstr ""
+
+#: wpl/theme.php:500
+msgid "By : "
+msgstr "with:"
+
+#: wpl/theme.php:538
+msgid "&larr; Previous"
+msgstr ""
+
+#: wpl/theme.php:539
+msgid "Next &rarr;"
+msgstr ""
+
+#: wpl/theme.php:666
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: wpl/theme.php:670 wpl/theme.php:671
+msgid "%title"
+msgstr ""
+
+#: wpl/theme.php:742
+msgid "YouTube"
+msgstr ""
+
+#: wpl/theme.php:757
+msgid "Linkedin"
+msgstr ""
+
+#: wpl/theme.php:769
+msgid "Myspace"
+msgstr ""
+
+#: wpl/theme.php:904
+msgid "Home"
+msgstr ""
+
+#: wpl/theme.php:955
+msgid "Archive from category "
+msgstr ""
+
+#: wpl/theme.php:1051
+msgid "Search results for "
+msgstr ""
+
+#: wpl/theme.php:1158
+msgid "Posts tagged "
+msgstr ""
+
+#: wpl/theme.php:1166
+msgid "Articles posted by "
+msgstr ""
+
+#: wpl/theme.php:1171
+msgid "Error 404 "
+msgstr ""
+
+#: wpl/theme.php:1176
+msgid "Page"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:23
+#: wplhtml/frontend/property_listing/assets/default_listings.php:25
+msgid "Bedrooms"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:27
+msgid "Bathrooms"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:30
+msgid "Parking"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:32
+msgid "Pictures"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:61
+msgid "More Details"
+msgstr ""

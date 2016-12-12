@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 145 60" xml:space="preserve" height="60px" viewBox="0 0 145 60" width="145px" version="1.1" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="m72.476 57.5l-15.912-4.418-3.546-39.773h38.965l-3.55 39.768-15.957 4.423z" fill="#E44D26"/>
+	<path d="m85.394 50.544l3.033-33.983h-15.928v37.558l12.895-3.575z" fill="#F16529"/>
+	<path d="m72.499 36.19v-4.878h-6.454l-0.446-4.996h6.9v-4.878h-12.231l0.117 1.309 1.199 13.443h10.915z" fill="#EBEBEB"/>
+	<path d="m72.499 43.981l-0.021 0.006-5.432-1.468-0.348-3.891h-4.897l0.684 7.659 9.991 2.774 0.022-0.006v-5.074z" fill="#EBEBEB"/>
+	<path d="m56.643 2.5h2.479v2.449h2.268v-2.449h2.479v7.417h-2.479v-2.484h-2.268v2.483h-2.479v-7.416z"/>
+	<path d="m67.128 4.959h-2.183v-2.459h6.845v2.459h-2.184v4.957h-2.479v-4.957h0.001z"/>
+	<path d="m72.877 2.5h2.585l1.59 2.606 1.588-2.606h2.586v7.417h-2.469v-3.676l-1.705 2.637h-0.043l-1.707-2.637v3.676h-2.425v-7.417z"/>
+	<path d="m82.46 2.5h2.479v4.965h3.486v2.451h-5.965v-7.416z"/>
+	<path d="m83.822 31.313h-11.34v4.878h6.007l-0.566 6.326-5.44 1.469v5.074l10-2.771 0.073-0.823 1.147-12.843 0.119-1.31z" fill="#fff"/>
+	<path d="m84.702 21.439h-12.22v4.878h11.784l0.098-1.096 0.223-2.473 0.115-1.309z" fill="#fff"/>
+</svg>

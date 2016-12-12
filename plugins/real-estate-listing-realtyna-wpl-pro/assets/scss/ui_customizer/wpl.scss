@@ -1,0 +1,596 @@
+/*!
+ * Author WPL UI Department of Realtyna Inc.
+ * Copyright 2015 Realtyna Inc. | realtyna.com
+ */
+
+@import "variables";
+@import "mixins";
+
+//region + Footer
+
+a:hover, section#main_box #content #content_l ol.comment-list li article footer .comment-metadata span.edit-link:hover{
+  color: $color-1;
+}
+
+//endregion
+
+//region + Property Listing
+
+//region - Sort options
+.wpl_property_listing_container .wpl_sort_options_container ul li div:hover{
+  color: darken($color-1, 10%);
+}
+
+.wpl_property_listing_container .wpl_sort_options_container ul li .wpl_plist_sort_active{
+  color: $color-1;
+
+  &:before{
+    background: $color-1;
+  }
+}
+
+//endregion
+
+//region - List
+.wpl_list_grid_switcher>div.active:before{
+  color: $color-1;
+}
+
+.wpl_prp_title{
+  color: $color-1;
+  font-size: $font-size-property-header;
+  font-family: $font-2;
+}
+
+.wpl_prp_cont .wpl_prp_listing_location{
+  font-size: $font-size-property-location;
+}
+
+.wpl_prp_cont .price_box span{
+  color: $color-1;
+}
+
+.wpl_prp_top .wpl_prp_top_boxes.back{
+  background: $color-1;
+}
+
+.wpl_prp_cont:hover{
+  border-bottom-color: $color-1;
+}
+
+.wpl_prp_listing_icon_box div:hover{
+  color: $color-1;
+}
+.wpl_property_listing_container .wpl_property_listing_listings_container .grid_box .wpl_prp_top .wpl_prp_top_boxes.back .view_detail {
+  background: $color-1;
+}
+//endregion
+
+//region - Pagination
+
+// TODO Should fixed in template.
+.wpl_pagination_container ul.pagination li.active a{
+  color: $color-1 !important;
+  border-color: $color-1 !important;
+}
+
+
+.pagination>li>a, section#main_box #content #content_l ol.comment-list li article footer .comment-metadata .pagination>li>span.edit-link, .pagination>li>span{
+  color: darken($color-1,10%) !important;
+}
+//endregion
+
+
+//endregion
+
+//region + Profile Listing
+#wpl_profile_listing_main_container .wpl_sort_options_container ul li .wpl_plist_sort_active:before{
+  background-color: $color-1;
+}
+
+#wpl_profile_listing_main_container .wpl_sort_options_container ul li .wpl_plist_sort_active{
+  color: $color-1;
+}
+
+#wpl_profile_listing_container .wpl_profile_container .wpl_profile_container_title a{
+  color: $color-1;
+}
+
+#wpl_profile_listing_container .wpl_profile_container ul li:after{
+  background-color: $color-1;
+}
+
+#wpl_profile_listing_container .wpl_profile_container .wpl_profile_picture div.back{
+  background-color: $color-1;
+}
+
+#wpl_profile_show_container .wpl_profile_show_container_box .wpl_agent_info_c .wpl_profile_container_title{
+  color: $color-1;
+}
+
+#wpl_profile_show_container .wpl_profile_show_container_box .wpl_agent_info_c ul li:before{
+  background-color: $color-1;
+}
+//endregion
+
+//region + Property Show
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_show_tabs .tabs_box ul.tabs li:before{
+  background: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_right_boxes .wpl_prp_right_boxes_title{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_right_boxes.details .wpl_prp_right_boxe_details_bot .price_box{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_cont .rows.feature span{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_cont .rows.feature.single:after{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_cont .rows.neighborhood .Car:after, #wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_cont .rows.neighborhood .Train:after, #wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_cont .rows.neighborhood .Walk:after{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_show_position2 .wpl_prp_right_boxes.listing_rooms .wpl_rooms_list_container li .room_size{
+  color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_left .wpl_prp_show_detail_boxes .wpl_prp_show_detail_boxes_title:after{
+  background: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_show_tabs .tabs_container .wpl_gallery_container #bx-pager a.active{
+  background: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_position3_boxes_title:after{
+  background-color: $color-1;
+}
+
+//endregion
+
+//region + Widgets
+
+//region - Carousel
+
+//region -- Default
+.wpl-plugin-owl.wpl-carousel-default .owl-controls .owl-prev, .wpl-plugin-owl.wpl-carousel-default .owl-controls .owl-next{
+  color: $color-1;
+}
+//endregion
+
+//region -- List
+.wpl_carousel_container .simple_list li .left_section span:after{
+  color: $color-1;
+}
+
+.wpl_carousel_container .simple_list li .right_section .title{
+  color: $color-1;
+}
+
+.wpl_carousel_container .simple_list li .more_info{
+  border-bottom-color: $color-1;
+}
+//endregion
+
+//region -- List
+.wpl-plugin-owl.wpl-carousel-multi-images.owl-responsive-0 .owl-dots .owl-dot.active span
+{
+  background: $color-1;
+}
+//endregion
+
+//region -- Map
+#main_infowindow .main_infowindow_r .main_infowindow_title, #main_infowindow .main_infowindow_r .main_infowindow_r_b div.price{
+  color: $color-1;
+}
+
+#main_infowindow .main_infowindow_r .main_infowindow_title, #main_infowindow .main_infowindow_r .main_infowindow_r_b div.price{
+  color: $color-1;
+}
+//endregion
+
+//region -- Modern
+.ei-title a.more_info{
+  background: $color-1;
+}
+
+.ei-slider-thumbs li.ei-slider-element{
+  background: $color-1;
+}
+//endregion
+
+//endregion
+
+//region - Summary
+.wpl-widget-summary-label{
+  color: $color-1;
+}
+
+.wpl-widget-summary-hover{
+  background: rgba($color-1, .5);
+}
+
+section#top_footer .widget h3{
+  color: $color-1 !important;
+}
+
+.wpl-widget-summary-wp li:hover .wpl-widget-summary-label{
+  color: rgba($color-1, .1);
+}
+//endregion
+
+//region - Favorites
+.wpl_favorites_items{
+  border-bottom-color: $color-1;
+}
+.wpl_favorite_item_image
+{
+  border-color: $color-1;
+}
+.wpl_favorite_item_title
+{
+  color: $color-1;
+}
+.wpl_favorite_item_remove
+{
+  color: $color-1;
+}
+//endregion
+
+//region - Agent Info
+.wpl_agents_widget_container .wpl_profile_container .wpl_profile_container_title .title{
+  color: $color-1;
+}
+
+.wpl_agents_widget_container .wpl_profile_container .wpl_profile_picture div.back{
+  background: $color-1;
+}
+
+.wpl_agents_widget_container .wpl_profile_container ul li{
+  background: $color-1;
+}
+.wpl_agents_widget_container .wpl_profile_container:hover{
+  border-color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_show_position2 .wpl_prp_right_boxes.agent_info .wpl_agent_info .wpl_agent_info_l img.logo{
+  border-color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_show_position2 .wpl_prp_right_boxes.agent_info .wpl_agent_info .wpl_agent_info_l:hover .company_details{
+  border-color: $color-1;
+}
+
+#wpl_prp_show_container .wpl_prp_container .wpl_prp_container_content .wpl_prp_container_content_right .wpl_prp_show_position2 .wpl_prp_right_boxes.agent_info .wpl_agent_info .wpl_agent_info_l:hover .company_details .company_name{
+  background-color: $color-1;
+}
+//endregion
+
+//endregion
+
+//region + Addons
+
+//region - Membership
+
+//region -- Login Form
+.wpl_addon_membership_container button, .wpl_addon_membership_container input[type="button"], .wpl_addon_membership_container input[type="submit"], .wpl_addon_membership_container input[type="reset"], .wpl_addon_membership_container .btn-primary{
+  background-color: $color-1;
+  border-bottom-color: darken($color-1, 15%);
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.btn-primary.dropdown-toggle{
+  background-color: darken($color-1, 15%);
+  border-bottom-color: darken($color-1, 30%);
+}
+//endregion
+
+//region -- Register Form
+.wpl-subscription-steps li{
+  background-color: $color-1;
+}
+
+.wpl-subscription-steps li:before, .wpl-subscription-steps li:after{
+  border-color: $color-1;
+}
+
+.wpl-subscription-steps li.active:before{
+  background-color: $color-1;
+}
+
+.wpl-payment-tabs-wp{
+  border-bottom-color: $color-1;
+}
+
+.wpl-subscription-steps li:first-child:before{
+  background-color: $color-1;
+}
+
+.wpl-payment-tabs-wp ul li{
+  background-color: $color-1;
+
+  &:hover{
+    background-color: darken($color-1,10%);
+  }
+}
+//endregion
+
+//region -- Dashboard
+.wpl_addon_membership_container .wpl_dashboard_links li:hover, .wpl_addon_membership_container .wpl_dashboard_links li.active{
+  background-color: $color-1;
+}
+//endregion
+
+//endregion
+
+//region - Save Search
+.wpl-save-search-wp .wpl-save-search-link{
+  color: $color-1;
+
+  &:hover{
+    background: rgba($color-1,0.9);
+    border-bottom-color: $color-1;
+  }
+}
+
+.wpl-addon-save-search-show-link-btn:hover{
+  color: $color-1;
+}
+//endregion
+
+//region - Neighborhood
+.wpl-neighborhood-addon .wpl_sort_options_container h3{
+  border-bottom-color: $color-1;
+}
+//endregion
+
+//endregion
+
+//region + Globals
+
+//region - Lightbox
+.realtyna-lightbox-wp h2, .realtyna-lightbox-wp .realtyna-lightbox-title{
+  background: $color-1;
+  //color: invert($color-1);
+  color: mix($color-1, $color-white, 30%);
+}
+//endregion
+
+.wpl-gen-btn-1{
+  background: lighten($color-1, 10%);
+}
+
+.wpl-gen-form-wp input[type="text"]:focus, .wpl-gen-form-wp input[type="email"]:focus, .wpl-gen-form-wp input[type="password"]:focus, .wpl-gen-form-wp input[type="tel"]:focus, .wpl-gen-form-wp textarea:focus{
+  @include vendor-prefix(box-shadow, inset 0 0 0 1px $color-1);
+  box-shadow: inset 0 0 0 1px $color-1;
+  border-color: $color-1;
+}
+
+// TODO !important should be removed and button styles should be removed and add to core.
+.btn-primary{
+  background-color: $color-1 !important;
+  border-color: darken($color-1, 10%) !important;
+
+  &:hover{
+    background-color: darken($color-1, 10%) !important;
+  }
+}
+//endregion
+
+//region + Property Manager
+.wpl-wp.pmanager-wp header h2{
+  border-bottom-color: $color-1;
+}
+
+#wpl_listings_top_tabs_container .wpl-tabs li.wpl-selected-tab a{
+  background-color: $color-1;
+}
+
+.wpl-wp .wpl-button.button-1{
+  background-color: $color-1;
+
+  &:hover{
+    background-color: lighten($color-1, 10%);
+  }
+}
+
+.mass-panel-wp .mass-actions-wp .mass-btn:hover{
+  background: $color-1;
+  border-color: $color-1;
+}
+
+.pagination-wp .pagination li.active a{
+  border-color: $color-1;
+}
+
+.properties-wp .propery-wp .property-detailes .detail .value{
+  color: $color-1;
+}
+
+.properties-wp .propery-wp .property-detailes .detail .plist_price{
+  color: $color-1;
+}
+
+.properties-wp .propery-wp .p-action-btn:hover{
+  color: $color-1;
+}
+
+.lm-search-form-wp .wpl_reset_button:hover{
+  color: $color-1;
+}
+//endregion
+
+//region + Property Wizard
+.pwizard-wp .side-tabs-wp li a, .pwizard-wp .side-tabs-wp li a:active, .pwizard-wp .side-tabs-wp li a:focus, .pwizard-wp .side-tabs-wp li a:visited{
+  color: $color-1;
+}
+
+.pwizard-wp .side-tabs-wp li a {
+  @include vendor-prefix(box-shadow, 'inset 0 1px 0 0 $color-white,inset 0 0 25px rgba($color-1,0.02)');
+  border-color: rgba($color-1, .3);
+  background-color: rgba($color-1, .08);
+
+  &:hover{
+    background-color: rgba($color-1, .1);
+  }
+}
+
+.pwizard-wp .side-tabs-wp .finilized{
+
+  a{
+    background-color: $color-1;
+    border-color: $color-1;
+
+    &:active, &:visited, &:focus{
+      background-color: $color-1;
+      border-color: $color-1;
+    }
+
+    &:hover{
+      background-color: darken($color-1, 5%);
+      border-color: darken($color-1, 5%);
+    }
+
+
+  }
+
+
+  &.active a{
+    background-color: darken($color-1, 5%);
+    border-color: darken($color-1, 5%);
+  }
+}
+
+.pwizard-wp .side-tabs-wp li.active a{
+  @include vendor-prefix(box-shadow, '-1px 0 0 #{$color-1},1px 0 0 #{$color-1}');
+  background-color: rgba($color-1, .3);
+  border-color: $color-1;
+
+  &:active, &:focus,&:visited{
+    @include vendor-prefix(box-shadow, '-1px 0 0 #{$color-1},1px 0 0 #{$color-1}');
+    background-color: rgba($color-1, .3);
+    border-color: $color-1;
+  }
+}
+//endregion
+
+//region + Property Show Gallery
+.wpl_prp_show_container .wpl-gallery-pshow-wp .lSSlideOuter .lSPager.lSpg>li.active >a:before
+{
+  color: $color-1;
+}
+.wpl_prp_show_container .wpl-gallery-pshow-wp .lSSlideOuter .lslide::after
+{
+  background-color: rgba($color-1, .7);
+}
+.wpl_prp_show_container .wpl-gallery-pshow-wp .lSSlideOuter .lSGallery>li.active img
+{
+  border-color: $color-1;
+}
+//endregion
+
+//region + CRM
+.wpl-crm-form-frontend .wpl-crm-grid-tab>ul>li.wpl-gen-tab-active-parent .wpl-crm-tab-number
+{
+  background-color: $color-1;
+}
+.wpl-crm-form .prow-separator
+{
+  color: $color-1;
+}
+.wpl-crm-form .prow-separator::before,
+.wpl-crm-form-frontend .wpl-crm-btn-cnt::before
+{
+  border-color:$color-1;
+}
+.wpl-crm-form-submit-btn
+{
+  background-color: $color-1;
+}
+//endregion
+//Frontend Popup
+.wpl-raduis-box-title
+{
+  background-color: $color-1;
+  border-color:darken($color-1,10%);
+}
+.wpl-gen-link
+{
+  color:$color-1;
+}
+//endregion
+.jquery-safari-checkbox-checked .mark
+{
+  background:$color-1 !important;
+}
+
+//region + Pshow Layout 2
+.wpl_prp_show_layout2_container .wpl_prp_show_detail_boxes_cont .rows span
+{
+  color:$color-1;
+}
+//endregion
+
+//region + Complex
+.wpl-complex-tabs-wp
+{
+  border-bottom-color:$color-1;
+}
+.wpl-complex-tabs-wp>ul>li>a.wpl-gen-tab-active
+{
+  background-color:$color-1;
+}
+//endregion
+
+//region + Property Preview
+#wpl_prp_show_container.wpl_prp_show_container_preview .wpl_prp_container_content .wpl_prp_show_detail_boxes_title
+{
+  color:$color-1;
+}
+#wpl_prp_show_container.wpl_prp_show_container_preview .wpl_prp_boxe_details_price
+{
+  color:$color-1;
+}
+//endregion
+
+//region + search widget
+.wpl_search_from_box .wpl_search_from_box_top .search_submit_box {
+  background: $color-1;
+
+  &:hover {
+    background: lighten($color-1, 20%);
+  }
+}
+//endregion
+
+//region + PDF
+.wpl-pdf-box-title
+{
+  color:$color-1;
+}
+.wpl_agent_info_r .name
+{
+  color:$color-1;
+}
+.wpl-pdf-field-feature-by-value .wpl-pdf-field-value
+{
+  color:$color-1;
+}
+//endregion
+
+//region + Print
+.wpl-print-page-container .wpl_prp_title {
+  color: $color-1;
+}
+.wpl-print-page-container .wpl_prp_cont .price_box span {
+  color: $color-1;
+}
+//endregion

@@ -1,0 +1,1453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme28\n"
+"POT-Creation-Date: 2016-02-20 00:19+0330\n"
+"PO-Revision-Date: 2016-02-20 13:05+0330\n"
+"Last-Translator: Howard <howard@realtyna.com>\n"
+"Language-Team:  <danijelc77@gmail.com>\n"
+"Language: Croatian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "Stranica nije pronađena"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: 404.php:25
+msgid "Here are some useful links:"
+msgstr "Ovdje su neki korisni linkovi:"
+
+#: archive.php:29 archive.php:55 page-left-menu.php:31 page-side.php:31
+#: page.php:31 single.php:32 tag.php:17 tag.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr "Žao nam je, nema postova koji odgovaraju vašem kriteriju."
+
+#: author.php:28
+#, php-format
+msgid "All posts by %s"
+msgstr "Svi postovi po %s"
+
+#: comments.php:25 comments.php:43
+msgid "Comment navigation"
+msgstr "Navigacija Komentara"
+
+#: comments.php:26 comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Stariji Komentari"
+
+#: comments.php:27 comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Noviji Komentari &rarr;"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni"
+
+#: content-aside.php:16 content-audio.php:16 content-featured-post.php:29
+#: content-gallery.php:16 content-image.php:16 content-link.php:16
+#: content-quote.php:16 content-video.php:16
+msgid ", "
+msgstr ","
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:36
+#: content-image.php:34 content-link.php:34 content-quote.php:37
+#: content-video.php:37 content.php:49 page-left-menu.php:93 page-side.php:86
+#: page.php:113 single.php:118
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nastavi čitati <span class=\"meta-nav\">&rarr;</span"
+
+#: content-aside.php:39 content-audio.php:39 content-gallery.php:38
+#: content-image.php:36 content-link.php:36 content-page.php:20
+#: content-quote.php:39 content-video.php:39 content.php:51 image.php:49
+#: page-left-menu.php:95 page-side.php:88 page.php:115 single.php:120
+msgid "Pages:"
+msgstr "Stranice"
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "Leave a comment"
+msgstr "Komentiraj"
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: content-aside.php:55 content-audio.php:56 content-gallery.php:54
+#: content-image.php:53 content-link.php:53 content-quote.php:56
+#: content-video.php:56 content.php:43 content.php:63 page.php:97
+#: single.php:101
+msgid "% Comments"
+msgstr "% Komentari"
+
+#: content-aside.php:57 content-audio.php:59 content-gallery.php:56
+#: content-image.php:55 content-link.php:55 content-page.php:26
+#: content-quote.php:59 content-video.php:59 content.php:65 image.php:29
+#: page.php:99 single.php:105
+msgid "Edit"
+msgstr "Uredi"
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Spremni za objavljivanje vašeg prvog posta? <a href=\"%1$s\">Započnite "
+"ovdje</a>."
+
+#: content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Žao nam je, ali ništa ne odgovara vaše uvjetima pretraživanje. Pokušajte "
+"ponovo s nekim drugim ključnim riječima."
+
+#: content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"\"Čini se da ne možemo pronaći traženi pojam. Možda pretraga može  pomoći."
+
+#: header.php:40
+msgid "Properties On Map"
+msgstr "Nekretnine na karti"
+
+#: header.php:170 header.php:349 header.php:420 header.php:462 header.php:517
+#: header.php:594
+msgid "Login to Account"
+msgstr "Prijava na Račun"
+
+#: header.php:174 header.php:353 header.php:424 header.php:465 header.php:520
+#: header.php:601
+msgid "Logout"
+msgstr "Odjava"
+
+#: header.php:178 header.php:357 header.php:428 header.php:469 header.php:524
+#: header.php:610
+msgid "Register"
+msgstr "Registracija"
+
+#: image.php:60
+msgid "Previous Image"
+msgstr "Prethodna Slika"
+
+#: image.php:61
+msgid "Next Image"
+msgstr "Slijedeća Slika"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr "Rezultati pretraživanja za: <span>%s</span>"
+
+#: taxonomy-post_format.php:26
+msgid "Asides"
+msgstr "Osim"
+
+#: taxonomy-post_format.php:29
+msgid "Images"
+msgstr "Slike"
+
+#: taxonomy-post_format.php:32
+msgid "Videos"
+msgstr "Videozapisi"
+
+#: taxonomy-post_format.php:35
+msgid "Audio"
+msgstr "Audio"
+
+#: taxonomy-post_format.php:38
+msgid "Quotes"
+msgstr "Quote"
+
+#: taxonomy-post_format.php:41
+msgid "Links"
+msgstr "Linkovi"
+
+#: taxonomy-post_format.php:44
+msgid "Galleries"
+msgstr "Galerije"
+
+#: taxonomy-post_format.php:47
+msgid "Archives"
+msgstr "Arhivi"
+
+#: plugins/RTPB/interfaces/js_templates.php:8
+msgid "Remove this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:9
+msgid "Clone this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:10
+msgid "Edit this row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:11
+msgid "Sort"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:219
+msgid "Remove this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:220
+msgid "Clone this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:221
+msgid "Edit this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:222
+msgid "Sort this box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:230
+msgid "Add box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:238
+msgid "Post/Page Content"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:246
+msgid "Text"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:254
+#, fuzzy
+msgid "Image"
+msgstr "Slike"
+
+#: plugins/RTPB/interfaces/js_templates.php:262
+#, fuzzy
+msgid "Link"
+msgstr "Linkovi"
+
+#: plugins/RTPB/interfaces/js_templates.php:270
+#: plugins/RTPB/libraries/shortcode_params/sidebar.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:278
+msgid "Raw HTML"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:286
+msgid "Raw Javascript"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:294
+#: plugins/RTPB/shortcodes/rtpb_facebook_like/preview.php:6
+#, fuzzy
+msgid "Facebook like"
+msgstr "Facebook"
+
+#: plugins/RTPB/interfaces/js_templates.php:302
+#, fuzzy
+msgid "Facebook Share"
+msgstr "Facebook"
+
+#: plugins/RTPB/interfaces/js_templates.php:310
+#: plugins/RTPB/shortcodes/rtpb_google_plus/preview.php:6
+#, fuzzy
+msgid "Google+"
+msgstr "Google Plus"
+
+#: plugins/RTPB/interfaces/js_templates.php:318
+#: plugins/RTPB/shortcodes/rtpb_pinterest/preview.php:6
+#: wpl/config_page.php:681 wpl/theme.php:745
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugins/RTPB/interfaces/js_templates.php:326 wpl/config_page.php:613
+#: wpl/theme.php:724
+msgid "Twitter"
+msgstr "Twitter"
+
+#: plugins/RTPB/interfaces/js_templates.php:334
+#: plugins/RTPB/shortcodes/rtpb_separator/preview.php:6
+msgid "Separator"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:342
+#: plugins/RTPB/shortcodes/rtpb_button/preview.php:6
+msgid "Button"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:350
+#: plugins/RTPB/shortcodes/rtpb_message/preview.php:6
+msgid "Message"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:358
+#: plugins/RTPB/shortcodes/rtpb_embed_code/preview.php:6
+msgid "Embed code"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:366
+#: plugins/RTPB/shortcodes/rtpb_slider/preview.php:6
+#, fuzzy
+msgid "Slider"
+msgstr "Slide"
+
+#: plugins/RTPB/interfaces/js_templates.php:374
+msgid "WP pages widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:382
+msgid "WP search widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:390
+msgid "WP meta widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:398
+msgid "WP recent comments widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:406
+msgid "WP calendar widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:414
+msgid "WP tag cloud widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:422
+msgid "WP text widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:430
+msgid "WP recent posts widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:438
+msgid "WP categories widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:446
+msgid "WP archives widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:454
+msgid "WP RSS widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/js_templates.php:462
+msgid "WP nav menu widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:27
+msgid "Add a row"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:28
+#, fuzzy
+msgid "CSS"
+msgstr "RSS"
+
+#: plugins/RTPB/interfaces/metabox.php:29
+msgid "Save/Load layouts"
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:42
+msgid "Please select a layout first."
+msgstr ""
+
+#: plugins/RTPB/interfaces/metabox.php:43
+msgid "Insert your post/page content first."
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:6
+#: plugins/RTPB/libraries/page_builder.php:103
+#, fuzzy
+msgid "Flexi Page Builder"
+msgstr "Flex Slider"
+
+#: plugins/RTPB/interfaces/switcher.php:7
+msgid "WordPress editor"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:10
+msgid "Unlimited sidebars"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:11
+msgid "Unlimited menu navs"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:12
+msgid "Global CSS"
+msgstr ""
+
+#: plugins/RTPB/interfaces/switcher.php:13
+msgid "Settings"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:7
+msgid "Add a new box"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:8
+msgid "Filter"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:10
+msgid "All"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:11
+#, fuzzy
+msgid "Social"
+msgstr "Izbornik Društvenih Mreža "
+
+#: plugins/RTPB/interfaces/sections/boxes.php:12
+msgid "Widget"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:13
+msgid "Source"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/boxes.php:14
+msgid "Content"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/box_parameters.php:5
+msgid "Box parameters"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/box_parameters.php:5
+#: plugins/RTPB/interfaces/sections/box_parameters.php:6
+msgid "Please wait ..."
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/css.php:8
+msgid "Add custom CSS"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/global_css.php:8
+msgid "Global CSS for including in all post types"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/layouts.php:7
+#, fuzzy
+msgid "Saved layouts"
+msgstr "Odaberi Izgled"
+
+#: plugins/RTPB/interfaces/sections/layouts.php:9
+#, fuzzy
+msgid "Layout name"
+msgstr "Izgled"
+
+#: plugins/RTPB/interfaces/sections/layouts.php:10
+#: plugins/RTPB/interfaces/sections/menus.php:15
+#: plugins/RTPB/interfaces/sections/sidebars.php:15
+#, fuzzy
+msgid "Save"
+msgstr "Spremljeno."
+
+#: plugins/RTPB/interfaces/sections/layouts.php:17
+#: plugins/RTPB/libraries/page_builder.php:451
+#, fuzzy
+msgid "Remove this layout"
+msgstr "Odaberi Izgled"
+
+#: plugins/RTPB/interfaces/sections/menus.php:11
+msgid "Manage Menus"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:13
+msgid "Menu name"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:16
+#: plugins/RTPB/interfaces/sections/sidebars.php:16
+msgid "Cancel edit"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:24
+#: plugins/RTPB/libraries/page_builder.php:561
+msgid "Remove this menu"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/menus.php:25
+#: plugins/RTPB/libraries/page_builder.php:562
+msgid "Edit this menu"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/settings.php:11
+msgid "Flexi Page Builder settings"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/settings.php:14
+msgid "Default layout for "
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:11
+msgid "Manage Sidebars"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:13
+msgid "Sidebar name"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:24
+#: plugins/RTPB/libraries/page_builder.php:510
+msgid "Remove this sidebar"
+msgstr ""
+
+#: plugins/RTPB/interfaces/sections/sidebars.php:25
+#: plugins/RTPB/libraries/page_builder.php:511
+msgid "Edit this sidebar"
+msgstr ""
+
+#: plugins/RTPB/libraries/page_builder.php:371
+msgid "Created by Flexi Page Builder."
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/media_picker.php:15
+#: plugins/RTPB/libraries/shortcode_params/slider.php:14
+#, fuzzy
+msgid "Select"
+msgstr "Izbornik Stilova"
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:27
+#: plugins/RTPB/libraries/shortcode_params/slider.php:67
+msgid "Text1"
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:28
+#: plugins/RTPB/libraries/shortcode_params/slider.php:68
+msgid "Text2"
+msgstr ""
+
+#: plugins/RTPB/libraries/shortcode_params/slider.php:29
+#: plugins/RTPB/libraries/shortcode_params/slider.php:69
+msgid "Text3"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_column/preview.php:6
+msgid "Column block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_embed_code/params.php:4
+msgid "Enter your embed code here"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_facebook_share/preview.php:6
+#, fuzzy
+msgid "Facebook share"
+msgstr "Facebook"
+
+#: plugins/RTPB/shortcodes/rtpb_image/preview.php:6
+msgid "Image block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_link/preview.php:6
+msgid "Link block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_post_content/preview.php:6
+msgid "Post/Page content"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_html/params.php:4
+msgid "I am a raw HTML"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_html/preview.php:6
+msgid "Raw HTML block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_js/params.php:4
+msgid "This is a javascript code!"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_raw_js/preview.php:6
+msgid "Raw Javascript block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_row/preview.php:6
+msgid "Row block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_sidebar/preview.php:6
+msgid "Sidebar block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_text/preview.php:6
+msgid "Text block"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_twitter/preview.php:6
+#, fuzzy
+msgid "Twitter like"
+msgstr "Twitter"
+
+#: plugins/RTPB/shortcodes/rtpb_twitter/template.php:8
+msgid "Tweet"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_archives/preview.php:6
+#, fuzzy
+msgid "WP archives"
+msgstr "Arhivi"
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_calendar/preview.php:6
+msgid "WP calendar"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_categories/preview.php:6
+msgid "WP categories"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_meta/preview.php:6
+msgid "WP meta"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_nav_menu/preview.php:6
+msgid "WP menu"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_pages/preview.php:6
+#, fuzzy
+msgid "WP pages"
+msgstr "Stranice"
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_recent_comments/preview.php:6
+#, fuzzy
+msgid "WP recent comments"
+msgstr "Komentiraj"
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_recent_posts/preview.php:6
+msgid "WP recent posts"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_rss/preview.php:6
+msgid "WP RSS"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_search/preview.php:6
+msgid "WP search"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_tag_cloud/preview.php:6
+msgid "WP tag cloud"
+msgstr ""
+
+#: plugins/RTPB/shortcodes/rtpb_wp_widget_text/preview.php:6
+msgid "WP text"
+msgstr ""
+
+#: wpl/config_page.php:90
+msgid "WPL Template"
+msgstr "WPL Templata"
+
+#: wpl/config_page.php:97
+msgid "Save Changes"
+msgstr "Spremi Promjene"
+
+#: wpl/config_page.php:100 wpl/config_page.php:120
+msgid "General Options"
+msgstr "Opće Opcije"
+
+#: wpl/config_page.php:101
+#, fuzzy
+msgid "Layout Options"
+msgstr "Opcije Fonta"
+
+#: wpl/config_page.php:102 wpl/config_page.php:948
+msgid "Font Options"
+msgstr "Opcije Fonta"
+
+#: wpl/config_page.php:103 wpl/config_page.php:274
+msgid "Color Options"
+msgstr "Opcije Boja"
+
+#: wpl/config_page.php:104 wpl/config_page.php:470
+msgid "Header Options"
+msgstr "Opcije Headera"
+
+#: wpl/config_page.php:105 wpl/config_page.php:518
+msgid "Footer Options"
+msgstr "Opcije Footera"
+
+#: wpl/config_page.php:106 wpl/config_page.php:597
+msgid "Social Icons Options"
+msgstr "Opcije Ikona Društvenih Mreža"
+
+#: wpl/config_page.php:107 wpl/config_page.php:1042
+msgid "Flex Slider"
+msgstr "Flex Slider"
+
+#: wpl/config_page.php:108 wpl/config_page.php:1189
+msgid "Short Codes"
+msgstr "Short Codes"
+
+#: wpl/config_page.php:109
+msgid "Custom CSS"
+msgstr ""
+
+#: wpl/config_page.php:127
+msgid "Tel"
+msgstr "Tel"
+
+#: wpl/config_page.php:129 wpl/config_page.php:137 wpl/config_page.php:542
+msgid "Leave it blank if you want to remove the text."
+msgstr "Ostavite neispunjeno ukoliko ne želite tekst."
+
+#: wpl/config_page.php:135
+msgid "Email"
+msgstr "Email"
+
+#: wpl/config_page.php:146
+msgid "Mail To"
+msgstr "Mail To"
+
+#: wpl/config_page.php:148
+msgid ""
+"Render email address as a link with \"emailto:email@address.com\" format."
+msgstr ""
+"Renderiraj adresu e-pošte kao link u \"emailto:email@address.com\" formatu."
+
+#: wpl/config_page.php:156
+msgid "FavIcon"
+msgstr ""
+
+#: wpl/config_page.php:157
+msgid "Specified your FavIcon for your website."
+msgstr ""
+
+#: wpl/config_page.php:176
+msgid "Blog Options"
+msgstr "Opcije Bloga"
+
+#: wpl/config_page.php:183
+msgid "Show Post Navigation"
+msgstr "Prikaži Navigaciju Postova"
+
+#: wpl/config_page.php:185
+msgid "Show next and previous post links after post content."
+msgstr "Prikaži linkove na sljedeći i prethodni post nakon sadržaja posta."
+
+#: wpl/config_page.php:190 wpl/config_page.php:204 wpl/config_page.php:217
+#: wpl/config_page.php:481 wpl/config_page.php:556
+msgid "Yes"
+msgstr "Da"
+
+#: wpl/config_page.php:192 wpl/config_page.php:206 wpl/config_page.php:219
+#: wpl/config_page.php:482 wpl/config_page.php:558
+msgid "No"
+msgstr "Ne"
+
+#: wpl/config_page.php:199
+msgid "Show Author"
+msgstr "Prikaži Autora"
+
+#: wpl/config_page.php:212
+msgid "Show Date"
+msgstr "Prikaži Datum"
+
+#: wpl/config_page.php:226 wpl/config_page.php:233
+msgid "Tracking codes"
+msgstr "Kodovi za praćenje"
+
+#: wpl/config_page.php:235
+msgid ""
+"Place your Google Analytics (and the others) here. This code will be located "
+"at the footer of template."
+msgstr ""
+"Upišite svoje Google Analytics kod (i ostale slične kodove) ovdje. Ovaj kod "
+"biti ce implementiran u footer template."
+
+#: wpl/config_page.php:245
+msgid "Before <code>&lt;/head&gt;</code>"
+msgstr "Ispred <code>&lt;/head&gt;</code>"
+
+#: wpl/config_page.php:247
+msgid "Add your code before the <code>&lt;/head&gt;</code>"
+msgstr "Dodaj svoj kod ispred <code>&lt;/head&gt;</code>"
+
+#: wpl/config_page.php:257
+msgid "Before <code>&lt;/body&gt;</code>"
+msgstr "Ispred <code>&lt;/body&gt;</code>"
+
+#: wpl/config_page.php:259
+msgid "Add your code before the <code>&lt;/body&gt;</code>"
+msgstr "Dodaj svoj kod ispred <code>&lt;/body&gt;</code>"
+
+#: wpl/config_page.php:279
+msgid "Theme"
+msgstr "Tema"
+
+#: wpl/config_page.php:283 wpl/style_selector.php:20
+msgid "Light"
+msgstr "Svijetlo"
+
+#: wpl/config_page.php:285 wpl/style_selector.php:26
+msgid "Dark"
+msgstr "Tamno"
+
+#: wpl/config_page.php:290
+msgid "Presets Style"
+msgstr "Preset Stila"
+
+#: wpl/config_page.php:298 wpl/style_selector.php:33
+msgid "No Preset"
+msgstr "Nema Preseta"
+
+#: wpl/config_page.php:309
+msgid "Enable Pattern For background"
+msgstr "Omogući uzorak za pozadinu"
+
+#: wpl/config_page.php:318
+msgid "Set Pattern For background"
+msgstr "Postavite uzorak za pozadinu"
+
+#: wpl/config_page.php:334
+msgid "Enable Custom Colors"
+msgstr "Omogućite Custom Boje"
+
+#: wpl/config_page.php:342
+msgid "Body Background"
+msgstr "Body Background"
+
+#: wpl/config_page.php:352
+msgid "Main Color"
+msgstr "Osnovna Boja"
+
+#: wpl/config_page.php:363
+msgid "Footer Background Color"
+msgstr "Boja Pozadine Footera"
+
+#: wpl/config_page.php:374
+msgid "Footer Top Background Color"
+msgstr "Footer Top Boja Pozadine"
+
+#: wpl/config_page.php:385
+msgid "Footer Font Color"
+msgstr "Footer Boja Font"
+
+#: wpl/config_page.php:395
+msgid "Logo"
+msgstr "Logotip"
+
+#: wpl/config_page.php:413
+msgid "Logo For Retina"
+msgstr "Logotip za Retinu"
+
+#: wpl/config_page.php:415
+msgid "It must be exactly x2 the size of main Logo"
+msgstr "Mora biti točno x2 veličine glavnog logotipa"
+
+#: wpl/config_page.php:433
+msgid "Second Logo"
+msgstr ""
+
+#: wpl/config_page.php:435
+msgid "You should select headers which supports second logo"
+msgstr ""
+
+#: wpl/config_page.php:453
+msgid "Second Logo Link"
+msgstr ""
+
+#: wpl/config_page.php:455
+#, fuzzy
+msgid "Leave it blank if you want to link to homepage."
+msgstr "Ostavite neispunjeno ukoliko ne želite tekst."
+
+#: wpl/config_page.php:476
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: wpl/config_page.php:477
+msgid "When this field is enabled, header will be fixed to top of the screen."
+msgstr "Kad je omogućeno ovo polje, header će biti pričvršćen na vrhu ekrana."
+
+#: wpl/config_page.php:488
+msgid "Transparent Header"
+msgstr ""
+
+#: wpl/config_page.php:496
+msgid "Header Type"
+msgstr "Vrsta Headera"
+
+#: wpl/config_page.php:503
+#, fuzzy
+msgid "Header Type "
+msgstr "Vrsta Headera"
+
+#: wpl/config_page.php:523
+msgid "Footer Type"
+msgstr "Vrsta Fotera"
+
+#: wpl/config_page.php:531
+#, fuzzy
+msgid "Footer Type "
+msgstr "Vrsta Fotera"
+
+#: wpl/config_page.php:540
+msgid "Footer text"
+msgstr "Tekst Footera"
+
+#: wpl/config_page.php:551
+msgid "Show footer menu"
+msgstr "Prikaži izbornik footera"
+
+#: wpl/config_page.php:564
+msgid "Enable Footer Logo"
+msgstr "Omogućite Logotip u Footeru"
+
+#: wpl/config_page.php:573
+msgid "Footer Logo"
+msgstr "Footer Logotip"
+
+#: wpl/config_page.php:603 wpl/theme.php:727
+msgid "Facebook"
+msgstr "Facebook"
+
+#: wpl/config_page.php:605 wpl/config_page.php:615 wpl/config_page.php:627
+#: wpl/config_page.php:638 wpl/config_page.php:649 wpl/config_page.php:660
+#: wpl/config_page.php:671 wpl/config_page.php:683 wpl/config_page.php:695
+#: wpl/config_page.php:706 wpl/config_page.php:718 wpl/config_page.php:729
+#: wpl/config_page.php:741 wpl/config_page.php:753 wpl/config_page.php:764
+#: wpl/config_page.php:775 wpl/config_page.php:788 wpl/config_page.php:800
+#: wpl/config_page.php:811
+msgid "Leave it blank if you want to remove the icon"
+msgstr "Ostavite neispunjeno ukoliko ne želite ikonu"
+
+#: wpl/config_page.php:625 wpl/theme.php:730
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: wpl/config_page.php:636 wpl/theme.php:733
+msgid "Flickr"
+msgstr "Flickr"
+
+#: wpl/config_page.php:647 wpl/theme.php:736
+msgid "RSS"
+msgstr "RSS"
+
+#: wpl/config_page.php:658 wpl/theme.php:739
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: wpl/config_page.php:669
+msgid "Youtube"
+msgstr "Youtube"
+
+#: wpl/config_page.php:693 wpl/theme.php:748
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: wpl/config_page.php:704 wpl/theme.php:751
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: wpl/config_page.php:716 wpl/theme.php:754
+msgid "Digg"
+msgstr "Digg"
+
+#: wpl/config_page.php:727
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: wpl/config_page.php:739 wpl/theme.php:760
+msgid "Blogger"
+msgstr "Blogger"
+
+#: wpl/config_page.php:752
+msgid "Skype"
+msgstr "Skype"
+
+#: wpl/config_page.php:762 wpl/theme.php:766
+msgid "Forrst"
+msgstr "Forrst"
+
+#: wpl/config_page.php:773
+msgid "MySpace"
+msgstr "MySpace"
+
+#: wpl/config_page.php:786 wpl/theme.php:772
+msgid "Deviantart"
+msgstr "deviantART"
+
+#: wpl/config_page.php:798 wpl/theme.php:775
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: wpl/config_page.php:809 wpl/theme.php:778
+msgid "Reddit"
+msgstr "Reddit"
+
+#: wpl/config_page.php:827
+msgid "Page Layout Settings"
+msgstr ""
+
+#: wpl/config_page.php:833
+msgid "Layout"
+msgstr "Izgled"
+
+#: wpl/config_page.php:837 wpl/style_selector.php:13
+msgid "Wide"
+msgstr "Široko"
+
+#: wpl/config_page.php:839 wpl/style_selector.php:14
+msgid "Boxed"
+msgstr "Uokvireno"
+
+#: wpl/config_page.php:846
+msgid "Page Width"
+msgstr "Širina Stranice"
+
+#: wpl/config_page.php:848
+msgid "Change width of page in Boxed layout."
+msgstr "Promjeni širinu stranice u Okvirenom pregledu stranice."
+
+#: wpl/config_page.php:851
+msgid "Pixel"
+msgstr "Pixel"
+
+#: wpl/config_page.php:857
+#, fuzzy
+msgid "Show Page Title"
+msgstr "Prikaži Datum"
+
+#: wpl/config_page.php:868
+msgid "Listing Layouts"
+msgstr ""
+
+#: wpl/config_page.php:875
+msgid "Listing Boxes"
+msgstr ""
+
+#: wpl/config_page.php:876 wpl/config_page.php:905
+msgid "Select your specific style for Grid Listing Boxes"
+msgstr ""
+
+#: wpl/config_page.php:883
+msgid "Flat Boxes"
+msgstr ""
+
+#: wpl/config_page.php:884
+msgid "Outstanding Boxes"
+msgstr ""
+
+#: wpl/config_page.php:891
+msgid "Listing Hover"
+msgstr ""
+
+#: wpl/config_page.php:892
+msgid "Select the listing hover effect in Listing Page"
+msgstr ""
+
+#: wpl/config_page.php:896
+msgid "Flip"
+msgstr ""
+
+#: wpl/config_page.php:897 wpl/config_page.php:1055
+msgid "Fade"
+msgstr "Izblijedjeti"
+
+#: wpl/config_page.php:904
+msgid "Default Listing Layout"
+msgstr ""
+
+#: wpl/config_page.php:909
+msgid "Last Session"
+msgstr ""
+
+#: wpl/config_page.php:910
+msgid "Grid"
+msgstr ""
+
+#: wpl/config_page.php:911
+msgid "List"
+msgstr ""
+
+#: wpl/config_page.php:912
+msgid "Map"
+msgstr ""
+
+#: wpl/config_page.php:920
+msgid "Widgets Layouts"
+msgstr ""
+
+#: wpl/config_page.php:927
+msgid "Modern Carousel Text"
+msgstr ""
+
+#: wpl/config_page.php:928
+msgid "Select where Carousel text show."
+msgstr ""
+
+#: wpl/config_page.php:932
+msgid "Default"
+msgstr ""
+
+#: wpl/config_page.php:933
+#, fuzzy
+msgid "Top Center"
+msgstr "Top Footer"
+
+#: wpl/config_page.php:934
+msgid "Center Center"
+msgstr ""
+
+#: wpl/config_page.php:935
+msgid "Bottom Center"
+msgstr ""
+
+#: wpl/config_page.php:954
+msgid "Main Font"
+msgstr "Osnovni Font"
+
+#: wpl/config_page.php:955 wpl/config_page.php:969 wpl/config_page.php:983
+#: wpl/config_page.php:1006 wpl/config_page.php:1022
+msgid "Google Webfont"
+msgstr "Google Webfont"
+
+#: wpl/config_page.php:962 wpl/config_page.php:976 wpl/config_page.php:990
+msgid "Default is \"Lato\" and \"13px\""
+msgstr "Zadano je \"Lato\" i \"13px\""
+
+#: wpl/config_page.php:968
+msgid "Header Font"
+msgstr "Header Font"
+
+#: wpl/config_page.php:982
+msgid "Footer Font"
+msgstr "Footer Font"
+
+#: wpl/config_page.php:997
+msgid "Internal Page Fonts"
+msgstr ""
+
+#: wpl/config_page.php:1005
+msgid "Property Listing - Title"
+msgstr ""
+
+#: wpl/config_page.php:1014 wpl/config_page.php:1030
+#, fuzzy
+msgid "Default is \"BenchNine\" and \"3em\""
+msgstr "Zadano je \"Lato\" i \"13px\""
+
+#: wpl/config_page.php:1021
+msgid "Property Show - Price"
+msgstr ""
+
+#: wpl/config_page.php:1049
+msgid "Animation"
+msgstr "Animacija"
+
+#: wpl/config_page.php:1050
+msgid "Select your animation type"
+msgstr "Odaberite vrstu animacije"
+
+#: wpl/config_page.php:1057
+msgid "Slide"
+msgstr "Slide"
+
+#: wpl/config_page.php:1064
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: wpl/config_page.php:1065
+msgid "Animate slider automatically"
+msgstr "Automatski animiraj slider"
+
+#: wpl/config_page.php:1075
+msgid "Control Navigation"
+msgstr "Kontrola Navigacije"
+
+#: wpl/config_page.php:1077
+msgid "Create navigation for paging control of each slide"
+msgstr "Stvori navigaciju za kontrolu stranica svakog slide-a"
+
+#: wpl/config_page.php:1087
+msgid "Direction Navigation"
+msgstr "Smjer Navigacije"
+
+#: wpl/config_page.php:1089
+msgid "Create navigation for previous/next navigation"
+msgstr "Stvori navigaciju za prethodnu/sljedeću navigaciju"
+
+#: wpl/config_page.php:1099
+msgid "Randomize"
+msgstr "Nasumce prikaži"
+
+#: wpl/config_page.php:1100
+msgid "Randomize slide order"
+msgstr "Nasumce prikaži redosljed slide-ova"
+
+#: wpl/config_page.php:1110
+msgid "SlideShow Speed"
+msgstr "Brzina Slideshowa"
+
+#: wpl/config_page.php:1112
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr "Postavite brzinu slideshow cyclinga, u milisekundama"
+
+#: wpl/config_page.php:1124
+msgid "Animation Duration"
+msgstr "Trajanje Animacije"
+
+#: wpl/config_page.php:1126
+msgid "Set the speed of animations, in milliseconds"
+msgstr "Postavite brzinu animacije, u milisekundama"
+
+#: wpl/config_page.php:1140
+msgid "Add images"
+msgstr "Dodaj Slike"
+
+#: wpl/config_page.php:1166
+msgid "CSS Options"
+msgstr "CSS Opcije"
+
+#: wpl/config_page.php:1172
+msgid "CSS codes"
+msgstr "CSS kodovi"
+
+#: wpl/config_page.php:1174
+msgid ""
+"Place your CSS codes here. Note that they do not include any HTML tags, "
+"these CSS codes override your styles."
+msgstr ""
+"Upišite svoje CSS kod ovdje. Imajte na umu da ne obuhvaća nikakve  HTML "
+"oznake, ovaj CSS kod prepraviti će vaše odabrane stilove."
+
+#: wpl/config_page.php:1196
+msgid "[wpl_fs]"
+msgstr "[wpl_fs]"
+
+#: wpl/config_page.php:1198
+msgid "This code will generate the Flex Slider."
+msgstr "Ovaj kod će generirati Flex Slider.Ovaj kod će generirati Flex Slider."
+
+#: wpl/helper.php:87
+msgid "WPL28 Settings"
+msgstr ""
+
+#: wpl/helper.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemate potrebne ovlasti za pristup ovoj stranici."
+
+#: wpl/helper.php:130
+#, php-format
+msgid "Page %s"
+msgstr "Stranica %s"
+
+#: wpl/helper.php:143
+msgid "Main Widget Area"
+msgstr "Osnovno Widget područje"
+
+#: wpl/helper.php:145
+msgid "Appears in the footer section of the site."
+msgstr "Pojavljuje se u footer sekciji stranice."
+
+#: wpl/helper.php:153
+msgid "Secondary Widget Area"
+msgstr "Sekundarno widget područje"
+
+#: wpl/helper.php:155
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Pojavljuje se na postovima i stranicama u bočnoj traci."
+
+#: wpl/helper.php:163
+msgid "Carousel"
+msgstr "Carousel"
+
+#: wpl/helper.php:165
+msgid "Appears on the bottom of Main Menu."
+msgstr "Pojavljuje se ispod glavnog izbornika."
+
+#: wpl/helper.php:173
+msgid "Top Footer Rows"
+msgstr "Top Footer Redovi"
+
+#: wpl/helper.php:175
+msgid "Appears on top of the Top footer sidebar."
+msgstr "Pojavljuje se na vrhu gornjeg footer sidebara."
+
+#: wpl/helper.php:183
+msgid "Top Footer"
+msgstr "Top Footer"
+
+#: wpl/helper.php:185
+msgid "Appears on the top of Footer."
+msgstr "Pojavljuje se na vrhu Footera."
+
+#: wpl/helper.php:192
+msgid "Left Slide"
+msgstr "Lijevi Slide"
+
+#: wpl/helper.php:194
+msgid "Appears on the left of page and slides to right by clicking."
+msgstr ""
+"Pojavljuje se na lijevoj strani stranice i nakon klika pomakne se udesno."
+
+#: wpl/helper.php:202
+msgid "Right Side"
+msgstr "Desni Slide"
+
+#: wpl/helper.php:204
+msgid "Appears on the right of page and slides to left by clicking."
+msgstr ""
+"Pojavljuje se na desnoj strani stranice i nakon klika pomakne se ulijevo."
+
+#: wpl/helper.php:215
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: wpl/helper.php:216
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: wpl/helper.php:217
+msgid "Social Menu"
+msgstr "Izbornik Društvenih Mreža "
+
+#: wpl/helper.php:218
+msgid "Not Found Page Menu"
+msgstr "Nije Pronađen Izbornik Stranice"
+
+#: wpl/style_selector.php:8
+msgid "Style Selector"
+msgstr "Izbornik Stilova"
+
+#: wpl/style_selector.php:10
+msgid "Select the layout"
+msgstr "Odaberi Izgled"
+
+#: wpl/style_selector.php:17
+msgid "Choose the theme"
+msgstr "Odaberi Temu"
+
+#: wpl/style_selector.php:31
+msgid "Preset colors"
+msgstr "Preset Boje"
+
+#: wpl/style_selector.php:41
+msgid "Select the pattern"
+msgstr "Odaberite uzorak"
+
+#: wpl/theme.php:280
+msgid "Saved."
+msgstr "Spremljeno."
+
+#: wpl/theme.php:280
+msgid "Error Occured."
+msgstr "Došlo je do Pogreške"
+
+#: wpl/theme.php:495
+msgid "Sticky"
+msgstr "Ljepljiv"
+
+#: wpl/theme.php:500
+msgid "By : "
+msgstr "Od :"
+
+#: wpl/theme.php:538
+msgid "&larr; Previous"
+msgstr "&larr; Prethodni"
+
+#: wpl/theme.php:539
+msgid "Next &rarr;"
+msgstr "Slijedeće &rarr;"
+
+#: wpl/theme.php:666
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Objavljeno U</span>%title"
+
+#: wpl/theme.php:670 wpl/theme.php:671
+msgid "%title"
+msgstr "%naslov"
+
+#: wpl/theme.php:742
+msgid "YouTube"
+msgstr "YouTube"
+
+#: wpl/theme.php:757
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: wpl/theme.php:769
+msgid "Myspace"
+msgstr "MySpace"
+
+#: wpl/theme.php:904
+msgid "Home"
+msgstr "Home"
+
+#: wpl/theme.php:955
+msgid "Archive from category "
+msgstr "Arhiviranje iz kategorije"
+
+#: wpl/theme.php:1051
+msgid "Search results for "
+msgstr "Rezultati pretraživanja za"
+
+#: wpl/theme.php:1158
+msgid "Posts tagged "
+msgstr "Postovi Označeni"
+
+#: wpl/theme.php:1166
+msgid "Articles posted by "
+msgstr "Članak objavio"
+
+#: wpl/theme.php:1171
+msgid "Error 404 "
+msgstr "Pogreška 404"
+
+#: wpl/theme.php:1176
+msgid "Page"
+msgstr "Stranica"
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:23
+#: wplhtml/frontend/property_listing/assets/default_listings.php:25
+msgid "Bedrooms"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:27
+msgid "Bathrooms"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:30
+msgid "Parking"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:32
+msgid "Pictures"
+msgstr ""
+
+#: wplhtml/frontend/property_listing/assets/default_listings.php:61
+msgid "More Details"
+msgstr ""

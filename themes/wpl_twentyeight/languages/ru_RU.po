@@ -1,0 +1,849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme28\n"
+"POT-Creation-Date: 2015-03-08 20:41+0330\n"
+"PO-Revision-Date: 2016-08-06 16:31+0700\n"
+"Last-Translator: Howard <howard@realtyna.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: I:/realtyna/xampp/htdocs/wp/wp-content/themes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: wpl_twentyeight\n"
+
+#: wpl_twentyeight/404.php:13
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: wpl_twentyeight/404.php:17
+msgid "404"
+msgstr ""
+
+#: wpl_twentyeight/404.php:24
+msgid "Here are some useful links:"
+msgstr ""
+
+#: wpl_twentyeight/archive.php:19 wpl_twentyeight/archive.php:45
+#: wpl_twentyeight/page-left-menu.php:19 wpl_twentyeight/page-side.php:19
+#: wpl_twentyeight/page.php:19 wpl_twentyeight/single.php:20
+#: wpl_twentyeight/tag.php:16 wpl_twentyeight/tag.php:40
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: wpl_twentyeight/author.php:24
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: wpl_twentyeight/comments.php:25 wpl_twentyeight/comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: wpl_twentyeight/comments.php:26 wpl_twentyeight/comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: wpl_twentyeight/comments.php:27 wpl_twentyeight/comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: wpl_twentyeight/comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: wpl_twentyeight/content-aside.php:12 wpl_twentyeight/content-audio.php:12
+#: wpl_twentyeight/content-featured-post.php:25
+#: wpl_twentyeight/content-gallery.php:12 wpl_twentyeight/content-image.php:12
+#: wpl_twentyeight/content-link.php:12 wpl_twentyeight/content-quote.php:12
+#: wpl_twentyeight/content-video.php:12
+msgid ", "
+msgstr ""
+
+#: wpl_twentyeight/content-aside.php:33 wpl_twentyeight/content-audio.php:33
+#: wpl_twentyeight/content-gallery.php:32 wpl_twentyeight/content-image.php:30
+#: wpl_twentyeight/content-link.php:30 wpl_twentyeight/content-quote.php:33
+#: wpl_twentyeight/content-video.php:33 wpl_twentyeight/content.php:45
+#: wpl_twentyeight/page-left-menu.php:81 wpl_twentyeight/page-side.php:74
+#: wpl_twentyeight/page.php:101 wpl_twentyeight/single.php:106
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: wpl_twentyeight/content-aside.php:35 wpl_twentyeight/content-audio.php:35
+#: wpl_twentyeight/content-gallery.php:34 wpl_twentyeight/content-image.php:32
+#: wpl_twentyeight/content-link.php:32 wpl_twentyeight/content-page.php:12
+#: wpl_twentyeight/content-quote.php:35 wpl_twentyeight/content-video.php:35
+#: wpl_twentyeight/content.php:47 wpl_twentyeight/image.php:49
+#: wpl_twentyeight/page-left-menu.php:83 wpl_twentyeight/page-side.php:76
+#: wpl_twentyeight/page.php:103 wpl_twentyeight/single.php:108
+msgid "Pages:"
+msgstr ""
+
+#: wpl_twentyeight/content-aside.php:51 wpl_twentyeight/content-audio.php:52
+#: wpl_twentyeight/content-gallery.php:50 wpl_twentyeight/content-image.php:49
+#: wpl_twentyeight/content-link.php:49 wpl_twentyeight/content-quote.php:52
+#: wpl_twentyeight/content-video.php:52 wpl_twentyeight/content.php:39
+#: wpl_twentyeight/content.php:59 wpl_twentyeight/page.php:85
+#: wpl_twentyeight/single.php:89
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: wpl_twentyeight/content-aside.php:51 wpl_twentyeight/content-audio.php:52
+#: wpl_twentyeight/content-gallery.php:50 wpl_twentyeight/content-image.php:49
+#: wpl_twentyeight/content-link.php:49 wpl_twentyeight/content-quote.php:52
+#: wpl_twentyeight/content-video.php:52 wpl_twentyeight/content.php:39
+#: wpl_twentyeight/content.php:59 wpl_twentyeight/page.php:85
+#: wpl_twentyeight/single.php:89
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: wpl_twentyeight/content-aside.php:51 wpl_twentyeight/content-audio.php:52
+#: wpl_twentyeight/content-gallery.php:50 wpl_twentyeight/content-image.php:49
+#: wpl_twentyeight/content-link.php:49 wpl_twentyeight/content-quote.php:52
+#: wpl_twentyeight/content-video.php:52 wpl_twentyeight/content.php:39
+#: wpl_twentyeight/content.php:59 wpl_twentyeight/page.php:85
+#: wpl_twentyeight/single.php:89
+msgid "% Comments"
+msgstr "% комментарии"
+
+#: wpl_twentyeight/content-aside.php:53 wpl_twentyeight/content-audio.php:55
+#: wpl_twentyeight/content-gallery.php:52 wpl_twentyeight/content-image.php:51
+#: wpl_twentyeight/content-link.php:51 wpl_twentyeight/content-page.php:18
+#: wpl_twentyeight/content-quote.php:55 wpl_twentyeight/content-video.php:55
+#: wpl_twentyeight/content.php:61 wpl_twentyeight/image.php:29
+#: wpl_twentyeight/page.php:87 wpl_twentyeight/single.php:93
+msgid "Edit"
+msgstr "Редактировать"
+
+#: wpl_twentyeight/content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: wpl_twentyeight/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: wpl_twentyeight/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: wpl_twentyeight/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: wpl_twentyeight/image.php:60
+msgid "Previous Image"
+msgstr ""
+
+#: wpl_twentyeight/image.php:61
+msgid "Next Image"
+msgstr ""
+
+#: wpl_twentyeight/search.php:17
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:26
+msgid "Asides"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:29
+msgid "Images"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:32
+msgid "Videos"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:35
+msgid "Audio"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:38
+msgid "Quotes"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:41
+msgid "Links"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:44
+msgid "Galleries"
+msgstr ""
+
+#: wpl_twentyeight/taxonomy-post_format.php:47
+msgid "Archives"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:94
+msgid "WPL Template"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:99
+msgid "Save Changes"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:102
+#: wpl_twentyeight/wpl/config_page.php:119
+msgid "General Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:103
+#: wpl_twentyeight/wpl/config_page.php:246
+msgid "Color Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:104
+#: wpl_twentyeight/wpl/config_page.php:370
+msgid "Header Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:105
+#: wpl_twentyeight/wpl/config_page.php:408
+msgid "Footer Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:106
+#: wpl_twentyeight/wpl/config_page.php:472
+msgid "Social Icons Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:107
+#: wpl_twentyeight/wpl/config_page.php:656
+msgid "Font Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:108
+#: wpl_twentyeight/wpl/config_page.php:706
+msgid "Flex Slider"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:109
+#: wpl_twentyeight/wpl/config_page.php:806
+msgid "CSS Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:110
+#: wpl_twentyeight/wpl/config_page.php:826
+msgid "Short Codes"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:124
+msgid "Layout"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:127
+#: wpl_twentyeight/wpl/style_selector.php:13
+msgid "Wide"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:128
+#: wpl_twentyeight/wpl/style_selector.php:14
+msgid "Boxed"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:134
+msgid "Page Width"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:135
+msgid "Change width of page in Boxed layout."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:137
+msgid "Pixel"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:141
+msgid "Tel"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:142
+#: wpl_twentyeight/wpl/config_page.php:149
+#: wpl_twentyeight/wpl/config_page.php:429
+msgid "Leave it blank if you want to remove the text."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:148
+msgid "Email"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:157
+msgid "Mail To"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:158
+msgid ""
+"Render email address as a link with \"emailto:email@address.com\" format."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:167
+msgid "Blog Options"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:173
+msgid "Show Post Navigation"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:174
+msgid "Show next and previous post links after post content."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:178
+#: wpl_twentyeight/wpl/config_page.php:189
+#: wpl_twentyeight/wpl/config_page.php:200
+#: wpl_twentyeight/wpl/config_page.php:381
+#: wpl_twentyeight/wpl/config_page.php:439
+msgid "Yes"
+msgstr "Да"
+
+#: wpl_twentyeight/wpl/config_page.php:179
+#: wpl_twentyeight/wpl/config_page.php:190
+#: wpl_twentyeight/wpl/config_page.php:201
+#: wpl_twentyeight/wpl/config_page.php:382
+#: wpl_twentyeight/wpl/config_page.php:440
+msgid "No"
+msgstr "Нет"
+
+#: wpl_twentyeight/wpl/config_page.php:185
+msgid "Show Author"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:196
+msgid "Show Date"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:208
+#: wpl_twentyeight/wpl/config_page.php:214
+msgid "Tracking codes"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:215
+msgid ""
+"Place your Google Analytics (and the others) here. This code will be located "
+"at the footer of template."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:223
+msgid "Before <code>&lt;/head&gt;</code>"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:224
+msgid "Add your code before the <code>&lt;/head&gt;</code>"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:232
+msgid "Before <code>&lt;/body&gt;</code>"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:233
+msgid "Add your code before the <code>&lt;/body&gt;</code>"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:251
+msgid "Theme"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:254
+#: wpl_twentyeight/wpl/style_selector.php:20
+msgid "Light"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:255
+#: wpl_twentyeight/wpl/style_selector.php:26
+msgid "Dark"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:260
+msgid "Presets Style"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:264
+#: wpl_twentyeight/wpl/style_selector.php:33
+msgid "No Preset"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:275
+msgid "Enable Pattern For background"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:281
+msgid "Set Pattern For background"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:295
+msgid "Enable Custom Colors"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:301
+msgid "Body Background"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:307
+msgid "Main Color"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:313
+msgid "Footer Background Color"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:319
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:325
+msgid "Footer Font Color"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:331
+msgid "Logo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:347
+msgid "Logo For Retina"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:348
+msgid "It must be exactly x2 the size of main Logo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:376
+msgid "Sticky Header"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:377
+msgid "When this field is enabled, header will be fixed to top of the screen."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:387
+msgid "Header Type"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:413
+msgid "Footer Type"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:428
+msgid "Footer text"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:436
+msgid "Show footer menu"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:445
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:451
+msgid "Footer Logo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:478 wpl_twentyeight/wpl/theme.php:718
+msgid "Facebook"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:479
+#: wpl_twentyeight/wpl/config_page.php:488
+#: wpl_twentyeight/wpl/config_page.php:497
+#: wpl_twentyeight/wpl/config_page.php:506
+#: wpl_twentyeight/wpl/config_page.php:515
+#: wpl_twentyeight/wpl/config_page.php:524
+#: wpl_twentyeight/wpl/config_page.php:533
+#: wpl_twentyeight/wpl/config_page.php:542
+#: wpl_twentyeight/wpl/config_page.php:551
+#: wpl_twentyeight/wpl/config_page.php:560
+#: wpl_twentyeight/wpl/config_page.php:569
+#: wpl_twentyeight/wpl/config_page.php:578
+#: wpl_twentyeight/wpl/config_page.php:587
+#: wpl_twentyeight/wpl/config_page.php:597
+#: wpl_twentyeight/wpl/config_page.php:607
+#: wpl_twentyeight/wpl/config_page.php:616
+#: wpl_twentyeight/wpl/config_page.php:625
+#: wpl_twentyeight/wpl/config_page.php:634
+#: wpl_twentyeight/wpl/config_page.php:643
+msgid "Leave it blank if you want to remove the icon"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:487 wpl_twentyeight/wpl/theme.php:715
+msgid "Twitter"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:496 wpl_twentyeight/wpl/theme.php:721
+msgid "Google Plus"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:505 wpl_twentyeight/wpl/theme.php:724
+msgid "Flickr"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:514 wpl_twentyeight/wpl/theme.php:727
+msgid "RSS"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:523 wpl_twentyeight/wpl/theme.php:730
+msgid "Vimeo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:532
+msgid "Youtube"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:541 wpl_twentyeight/wpl/theme.php:736
+msgid "Pinterest"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:550 wpl_twentyeight/wpl/theme.php:739
+msgid "Tumblr"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:559 wpl_twentyeight/wpl/theme.php:742
+msgid "Dribbble"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:568 wpl_twentyeight/wpl/theme.php:745
+msgid "Digg"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:577
+msgid "LinkedIn"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:586 wpl_twentyeight/wpl/theme.php:751
+msgid "Blogger"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:596
+msgid "Skype"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:606 wpl_twentyeight/wpl/theme.php:757
+msgid "Forrst"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:615
+msgid "MySpace"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:624 wpl_twentyeight/wpl/theme.php:763
+msgid "Deviantart"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:633 wpl_twentyeight/wpl/theme.php:766
+msgid "Yahoo"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:642 wpl_twentyeight/wpl/theme.php:769
+msgid "Reddit"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:662
+msgid "Main Font"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:663
+#: wpl_twentyeight/wpl/config_page.php:676
+#: wpl_twentyeight/wpl/config_page.php:689
+msgid "Google Webfont"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:670
+#: wpl_twentyeight/wpl/config_page.php:683
+#: wpl_twentyeight/wpl/config_page.php:696
+msgid "Default is \"Lato\" and \"13px\""
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:675
+msgid "Header Font"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:688
+msgid "Footer Font"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:712
+msgid "Animation"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:713
+msgid "Select your animation type"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:717
+msgid "Fade"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:718
+msgid "Slide"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:724
+msgid "Slideshow"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:725
+msgid "Animate slider automatically"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:733
+msgid "Control Navigation"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:734
+msgid "Create navigation for paging control of each slide"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:742
+msgid "Direction Navigation"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:743
+msgid "Create navigation for previous/next navigation"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:751
+msgid "Randomize"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:752
+msgid "Randomize slide order"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:760
+msgid "SlideShow Speed"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:761
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:769
+msgid "Animation Duration"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:770
+msgid "Set the speed of animations, in milliseconds"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:779
+msgid "Add images"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:812
+msgid "CSS codes"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:813
+msgid ""
+"Place your CSS codes here. Note that they do not include any HTML tags, "
+"these CSS codes override your styles."
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:832
+msgid "[wpl_fs]"
+msgstr ""
+
+#: wpl_twentyeight/wpl/config_page.php:834
+msgid "This code will generate the Flex Slider."
+msgstr ""
+
+#: wpl_twentyeight/wpl/head.php:15
+msgid "Properties On Map"
+msgstr ""
+
+#: wpl_twentyeight/wpl/head.php:87 wpl_twentyeight/wpl/head.php:237
+#: wpl_twentyeight/wpl/head.php:295 wpl_twentyeight/wpl/head.php:327
+msgid "Login to Account"
+msgstr ""
+
+#: wpl_twentyeight/wpl/head.php:89 wpl_twentyeight/wpl/head.php:239
+#: wpl_twentyeight/wpl/head.php:297 wpl_twentyeight/wpl/head.php:329
+msgid "Logout"
+msgstr ""
+
+#: wpl_twentyeight/wpl/head.php:91 wpl_twentyeight/wpl/head.php:241
+#: wpl_twentyeight/wpl/head.php:299 wpl_twentyeight/wpl/head.php:331
+msgid "Register"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:59
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:95
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:108
+msgid "Main Widget Area"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:110
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:118
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:120
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:128
+msgid "Carousel"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:130
+msgid "Appears on the bottom of Main Menu."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:138
+msgid "Top Footer Rows"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:140
+msgid "Appears on top of the Top footer sidebar."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:148
+msgid "Top Footer"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:150
+msgid "Appears on the top of Footer."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:157
+msgid "Left Slide"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:159
+msgid "Appears on the left of page and slides to right by clicking."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:167
+msgid "Right Side"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:169
+msgid "Appears on the right of page and slides to left by clicking."
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:180
+msgid "Top Menu"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:181
+msgid "Footer Menu"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:182
+msgid "Social Menu"
+msgstr ""
+
+#: wpl_twentyeight/wpl/helper.php:183
+msgid "Not Found Page Menu"
+msgstr ""
+
+#: wpl_twentyeight/wpl/style_selector.php:8
+msgid "Style Selector"
+msgstr ""
+
+#: wpl_twentyeight/wpl/style_selector.php:10
+msgid "Select the layout"
+msgstr ""
+
+#: wpl_twentyeight/wpl/style_selector.php:17
+msgid "Choose the theme"
+msgstr ""
+
+#: wpl_twentyeight/wpl/style_selector.php:31
+msgid "Preset colors"
+msgstr ""
+
+#: wpl_twentyeight/wpl/style_selector.php:41
+msgid "Select the pattern"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:273
+msgid "Saved."
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:273
+msgid "Error Occured."
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:488
+msgid "Sticky"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:493
+msgid "By : "
+msgstr "Автор : "
+
+#: wpl_twentyeight/wpl/theme.php:531
+msgid "&larr; Previous"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:532
+msgid "Next &rarr;"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:659
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:663 wpl_twentyeight/wpl/theme.php:664
+msgid "%title"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:733
+msgid "YouTube"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:748
+msgid "Linkedin"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:760
+msgid "Myspace"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:874
+msgid "Home"
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:925
+msgid "Archive from category "
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:1021
+msgid "Search results for "
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:1128
+msgid "Posts tagged "
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:1136
+msgid "Articles posted by "
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:1141
+msgid "Error 404 "
+msgstr ""
+
+#: wpl_twentyeight/wpl/theme.php:1146
+msgid "Page"
+msgstr ""

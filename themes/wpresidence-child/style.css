@@ -1,0 +1,241 @@
+/*
+Theme Name: wpresidence child theme for kore
+Template: wpresidence
+Author: WP Estate
+Version: 1.0
+Updated: 2015-01-25 18:19:31
+*/
+
+@charset "UTF-8";
+body{font-family: Roboto;}
+.website-wrapper{ overflow:hidden;}
+.logo a {display: inline-block; padding-top: 15px;}
+.miclogo a{ padding-top:3px}
+
+#carousel-listing .carousel-round-indicators li {
+margin-left: 5px;
+}
+
+#tr_credit{ display:none}
+.transposh_flags { padding-right: 10px; padding-top: 5px;}
+
+
+.sub_footer{ height:auto; overflow:hidden}
+.copyright {display: inline-block; max-width: 950px; padding-bottom: 25px;}
+
+.testimonial-text{ font-style:italic;}
+.shortcode_title.title_slider,
+.Our-Agents .shortcode_title{     color: #3c90be;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+}
+
+.ult-content-box{ border-radius:4px; overflow:hidden; position:relative; margin-bottom:30px; transition: all 700ms ease 0s;}
+.ult-content-box .cercle-box { border-radius: 500px; display: table; height: 180px; left: 50%; margin-left: -90px;  margin-top: -90px;    position: absolute; text-align: center;   top: 50%;  vertical-align: middle;  width: 180px; background-color: rgba(0, 0, 0, 0.6);}
+.ult-content-box .cercle-box:hover{}
+.ult-content-box::after{
+    background: rgba(0, 0, 0, 0) url("images/item-on-hover.png") repeat scroll 0 0;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transition: all 0.4s ease 0s;
+    width: 100%;
+    z-index: 111;
+	content:"";
+}
+.ult-content-box:hover::after{opacity: 1;}
+.ult-content-box .cercle-box .box{ display:table-cell; vertical-align: middle; font-size:17px; color:#FFF; font-weight:bold; padding:0 20px;}
+
+
+.search_options_setting{ position:absolute; top: -41px; position: absolute; height: 40px;}
+#adv-search-header-sell, #adv-search-header-condo, #adv-search-header-buy{ background-color: #666666; border-top-left-radius: 4px;  border-top-right-radius: 4px; color: #fff; cursor: pointer; font-size: 20px; height: 40px; left: 0;	line-height:40px;  margin: 0; padding: 0 15px 0; width: 228px; text-align:center; font-family:Roboto; float:left; margin-right:3px;}
+
+#adv-search-header-sell.active, #adv-search-header-condo.active, #adv-search-header-buy.active{ background-color:#3c90be;}
+
+.home_welcome_section p{ font-size:15px; font-family:Roboto;}
+.menu-communities-container {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+}
+.menu-communities-container ul{ margin:0; padding:0;}
+.menu-communities-container ul li{ display:inline-block; margin-bottom: 8px; padding-bottom: 8px; position:relative}
+.menu-communities-container ul li a { color: #3c90be; display: block; font-size: 15px; padding: 0; font-family: Roboto;}
+.menu-communities-container > ul > li > a{ margin-right: 0;  max-width: 210px;  width: 100%;}
+.menu-communities-container ul li ul{ display:none;}
+.menu-communities-container ul li::before{ margin:0; content:"";}
+
+.menu-communities-container ul > li.menu-item-has-children::after{ content:""; position:absolute; background:url(images/down-arrow.png) no-repeat; width:10px; height:7px; right:0px; top:10px;}
+.menu-communities-container ul > li::last-child{ border-bottom:none; padding-bottom:0; margin-bottom:0;}
+.menu-communities-container ul > li.menu-item-has-children.active::after,
+.menu-communities-container ul > li.menu-item-has-children:hover::after{ content:""; position:absolute; background:url(images/down-arrow-hover.png) no-repeat; width:10px; height:7px; right:0px; top:10px;}
+.menu-communities-container ul > li.menu-item-has-children.active > a,
+.menu-communities-container ul > li.menu-item-has-children ul.sub-menu li a:hover,
+.menu-communities-container ul > li a:hover{ color:#86c148}
+
+.menu-communities-container ul > li ul.sub-menu li{ border-bottom:1px solid #f0f0f0}
+
+.menu-communities-container ul > li.menu-item-has-children::before { content: "";  cursor: pointer;  height: 30px;  position: absolute;  right: 0;  top: 0;  width: 30px;  z-index: 999;}
+.menu-communities-container ul > li.menu-item-has-children ul.sub-menu { padding-left: 0;  position: relative;}
+.menu-communities-container ul > li.menu-item-has-children ul.sub-menu li a{ padding-left:10px;}
+
+#access li.home-menu-item a:hover,
+#access li.home-menu-item a{ background:rgba(0, 0, 0, 0) url("images/home-menu-icon.png") no-repeat scroll 50% 35% !important; text-indent:-9999px}
+.navbar-fixed-top #access li.home-menu-item a{ background-position:50% 50% !important}
+
+.welcome-home-section a.more{ font-weight:bold; font-family: Roboto; background:url(images/right-arrow.png) no-repeat 100% 6px; display:inline-block; padding-right:15px;}
+
+
+.advance-search-options-xox .adv1-holder .adv_search_slider{ max-width:100% !important}
+.advance-search-options-condo .form-control,
+.advance-search-options-xox .form-control{ width: 98.5% !important;}
+.description_one_comunnity, 
+.description_two_comunnity { clear: both; line-height: 24px; overflow: hidden; padding-left: 15px;}
+.description_one_comunnity p,
+.description_two_comunnity p{ line-height:24px; margin-bottom:20px;}
+.description_two_comunnity h3,
+.description_one_comunnity h3,
+.description_one_comunnity h2, 
+.description_two_comunnity h2{ margin-top:30px;}
+.description_one_comunnity h2:first-child, 
+.description_two_comunnity h2:first-child{ margin-top:0;}
+.description_one_comunnity table, 
+.description_two_comunnity table{ width:100%;}
+.description_one_comunnity table tr td,
+.description_one_comunnity table th td, 
+.description_two_comunnity table tr td,
+.description_two_comunnity table th td{ padding:3px 8px;}
+
+body.home .adv-search-1{ min-height:142px;}
+body.home #advanced_submit_2{ height:142px; padding:50px 45px; }
+
+body.home .adv1-holder{ padding-bottom:0; }
+body.home .adv1-holder a{ font-size:13px; color:#3c90be; font-weight:bold; margin-right:10px; display:inline-block; padding-left:15px;}
+body.home .adv1-holder,
+body.home .adv-search-1 #srcsell .adv1-holder{ min-height:141px;}
+body.home .adv-search-1 #srcbuy .adv1-holder, 
+body.home .adv-search-1 #srccondo .adv1-holder{ height: auto; padding-bottom:10px;}
+
+body.home .opsrctab.adv1-holder{}
+
+a.asearch{ background:url(images/searc-icon.png) no-repeat;}
+a.gsearch{ background:url(images/map-icon.png) no-repeat;}
+
+.adv_search_slider #slider_price2, .adv_search_slider #slider_price3 { height: 5px; margin-left: 10px; margin-top: 7px;}
+#slider_price2 .ui-slider-handle, #slider_price3 .ui-slider-handle { height: 17px;  margin-top: -2px;  width: 17px;}
+.worth{ color:#3c90be; font-size:15px; font-family: Roboto; font-weight:bold; margin:10px 0;}
+.input-worth{ width:100%!important; max-width:630px!important; overflow:hidden; float:left;}
+.input-worth .form-control{ width:100%!important; max-width:620px!important;}
+.input-worth-email{ float:left; width:100%; overflow:hidden; max-width:280px;}
+.input-worth-email .form-control{ width:100%!important; max-width:270px!important;}
+
+#amount_wd, #amount, #amount2, #amount3 { border: 0 none;  color: #3c90be !important; font-weight: bold;  height: 10px;  margin-bottom: 0;  margin-top: 0;}
+
+.reange_area{display:block; float:left; max-width:650px; width:100%; float: left; padding-left:10px;}
+.reange_area .adv_search_slider{ max-width:100% !important}
+.property_types_area{ display:block; float:left; max-width:250px; width:100%; float: left; }
+
+#search_wrapper{ border-bottom:none !important;}
+
+.agent_unit_social{ background-color:transparent; border-top:1px solid #f0f0f0; }
+.view_agent{ float:left; color:#3c90be !important; font-weight:bold; font-family: Roboto; background:url(images/right-arrow.png) no-repeat 100% 6px; display:inline-block; padding-right:15px; font-size:15px;}
+.social_sidebar_internal{ position:relative; }
+.left-top-widet .social_sidebar_internal::before{ position:absolute; left:1px; width:1px; height:11px; background-color:#99a3b1; top:8px; content:"";}
+
+.hide-advance-search-form #search_wrapper,
+body.single-post #search_wrapper{ display:none !important;}
+
+.wp_prorerty_featured .shortcode_slider_list li{max-width: 380px;}
+.wp_prorerty_featured .listing_details{ color:#666666; font-size:14px; font-weight:bold; padding-top:20px;}
+.wp_prorerty_featured  .listing_unit_price_wrapper{min-height: 52px; line-height: 32px;}
+.wp_prorerty_featured  .listing_unit_price_wrapper a{font-weight:bold; font-family: Roboto; background:url(images/right-arrow.png) no-repeat 100% 11px; display:inline-block; padding-right:15px; font-size:15px; color:#3c90be !important}
+
+.listing-unit-img-wrapper .cercle-box { border-radius: 500px; display: table; height: 170px; left: 50%; margin-left: -85px;  margin-top: -85px;    position: absolute; text-align: center;   top: 50%;  vertical-align: middle;  width: 170px; background-color: rgba(0, 0, 0, 0.6);}
+.listing-unit-img-wrapper .cercle-box .box{ display:table-cell; vertical-align: middle; font-size:18px; color:#FFF; font-weight:bold; padding:0 20px;}
+.listing-unit-img-wrapper .cercle-box .box span { color: #ffffff;  display: block;  font-size: 14px;  font-weight: normal;  line-height: 18px !important;  margin-bottom: 7px;  padding-bottom: 7px;  position: relative;  text-transform: uppercase;}
+.listing-unit-img-wrapper .cercle-box .box span::after { background-color: #3c8fbe;  bottom: 0; content: "";  height: 1px;  left: 10px;  position: absolute;  width: 110px;}
+.listing-unit-img-wrapper .cercle-box .box h5{ font-weight:bold; font-size:18px; color:#FFF; text-transform:uppercase;}
+
+.single-content .blog_unit_image img.wp-post-image{height: auto; max-height: 170px; max-width: 100%; min-height: 170px;}
+.blog2v .property_listing {min-height: 460px; overflow: hidden; width: 100%;}
+
+.blog2v .blog_unit_image img.wp-post-image { height: auto;  max-height: 170px; max-width: 100%;  min-height: 170px;}
+.single-content img{ width:100%; height:auto;}
+.adv-search-1-close-extended {
+
+}
+input.advanced_select{ display:none;}
+.adv-search-1.adv_extended_class { }
+.adv_extended_class .adv1-holder {   margin-bottom: 0;  padding-bottom: 0;}
+.adv_extended_class #advanced_submit_2 {  }
+
+#srcbuy .adv1-holder, #srcsell .adv1-holder, #srccondo .adv1-holder{ padding-top:10px;}
+.tag-desc{ margin-bottom:30px; clear:both; overflow:hidden}
+#colophon li .widget_latest_internal .listing_name .widget_latest_price{ margin-top:0;}
+#colophon li .widget_latest_internal .listing_name a { border: medium none; font-size: 11px;  line-height: 17px;}
+
+.mobile_header {
+    background-color: #fff;
+    border-top: 8px solid white;
+}
+h1, h2, h3 {
+    color: #398fc0 !important;
+    font-weight: 300;
+}
+h1.vc_custom_heading ,
+h2.vc_custom_heading , 
+h3.vc_custom_heading { color:#FFF !important; font-weight:normal}
+
+.client-testimonial-home{}
+.client-testimonial-home h1.vc_custom_heading ,
+.client-testimonial-home h2.vc_custom_heading , 
+.client-testimonial-home h3.vc_custom_heading,
+.communities-container h1.vc_custom_heading ,
+.communities-container h2.vc_custom_heading , 
+.communities-container h3.vc_custom_heading{ color: #3c90be !important;}
+
+#slider_price_widget_custom{    height: 5px;
+    margin-bottom: 5px;
+    margin-left: 7px;
+    margin-top: 10px;
+    max-width: 214px;
+    width: 100%;}
+#amount4 {
+    border: 0 none;
+    color: #3c90be !important;
+    font-weight: bold;
+    height: 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#slider_price_widget_custom.ui-slider-horizontal .ui-slider-range{ top:3px !important;}
+.widget-container.widget_property_new_search .caret_filter {
+    border-top: 6px solid #768082;
+    position: absolute;
+    right: 12px;
+    top: 18px;
+}
+.custom-form-new{ width:100%; clear:both;}
+.custom-form-new label{ font-weight:bold;}
+.custom-row-dubble{ width:100%; clear:both}
+.custom-row-dubble label{font-weight:bold;}
+.custom-row-dubble .half-content{ width:48%; float:left}
+.custom-row-dubble .half-content:last-child{ float:right}
+.custom-form-new.half-content{ clear:inherit;}
+h4{ font-size:17px;}
+.contact-wrapper .description{ font-size:13px; line-height:22px; padding-bottom:30px;}
+
+.walk_details > img {
+    max-width: 120px;
+}
+.property_listing{ min-height:395px;}
+
+.single-content .uvc-ctaction-data p{ margin-bottom:0 !important;}
+.uvc-ctaction-data{}

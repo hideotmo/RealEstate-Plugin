@@ -1,0 +1,62 @@
+/*Addon APS*/
+.wpl_property_listing_container {
+  &.wpl-property-listing-mapview {
+    width: 100vw;
+    left: calc(-49.3vw + 50%);
+    .wpl_googlemap_container {
+      padding: 0;
+      border: 0;
+    }
+  }
+}
+/*Addon Booking*/
+.wpl_property_listing_container {
+  .wpl-rss-wp {
+    position: absolute;
+    top: -30px !important;
+    left: 0 !important;
+    right: auto !important;
+    .wpl-rss-link {
+      font-size: 13px !important;
+      font-style: normal !important;
+      font-family: Lato !important;
+
+      &:hover {
+        color: $co-11 !important;
+      }
+    }
+  }
+  .wpl-save-search-wp {
+    position: absolute;
+    top: -30px !important;
+    left: 75px !important;
+    right: auto !important;
+    .wpl-save-search-link {
+      font-size: 13px !important;
+      font-style: normal !important;
+      font-family: Lato !important;
+
+      &:hover {
+        color: $co-11 !important;
+      }
+    }
+  }
+  &.wpl-property-listing-mapview {
+    .wpl-rss-wp {
+      top: 41px !important;
+      .wpl-rss-link {
+        width: 100px;
+      }
+    }
+    .wpl-save-search-wp {
+      top: 41px !important;
+      left: 101px !important;
+    }
+  }
+}
+
+/*Addon Mortgage*/
+.wpl_mcalc_container .wpl-mortgage-percent {
+  display: inline-block;
+  padding:0;
+}
